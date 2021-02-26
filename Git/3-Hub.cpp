@@ -42,4 +42,36 @@
          dev:               <- C3 <-----
          
          合并master和dev分支的提交记录：git rebase 
-  第三种：
+  第三种：消除合并代码产生记录分叉
+	 将远程仓库代码拉取到本地工作区： git pull
+	 替换为：
+ 	 
+	 将远程仓库代码拉取到本地缓冲区： git fetch
+	 将远程仓库与本地合并(包括记录与代码)：git rebase
+
+5.注意事项
+  使用git rebase可能发生冲突：
+  消除冲突
+  继续合并：git rebase --continue
+
+6.beyond compare快速解决冲突
+  安装beyond compare
+
+  在git中配置
+    git config --local merge.tool bc3
+    git config --local merge.path '/usr/local/bin/bcomp'
+    git config --local mergetool.keepBackup false
+
+  应用beyond compare解决冲突
+    git mergetool
+
+7.命令总结
+  添加远程连接：git remote add origin 连接
+  推送代码：git push url 分支
+  下载代码：git clone url
+  拉取代码：git pull url 分支 
+	    等价于 
+	    git fetch url 分支
+	    git merge url 分支
+  保持代码提交整洁(变基)：git rebase 分支
+  图示法记录展示：git log --graph --pretty=format:"%h %s"
