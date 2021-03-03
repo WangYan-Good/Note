@@ -67,4 +67,30 @@
   paris:
 
 6.8 简单文件输入/输出
+  文本I/O和文本文件
+
+  写入到文本文件中：头文件iostream  
+  定义了处理输出ostream类
+  声明了ostream类的对象 cout
+
+  文件输出
+  必须包含头文件fstream
+  定义了用于处理输出的ofstream类
+  需要声明ofstream对象
+
+  open(): 将ofstream对象与文件进行关联，打开文件
+  close(): 关闭文件
+  利用ofstream对象和运算符<<来输出数据
+
+  ofstream outfile; //outfile an ofstream object
+  outfile.open("fish.txt");
+  outfile.close(); //close file outfile已经与文件关联，所以关闭文件时不需要关联
+
+  读取文本文件：istream
+  声明istream的对象，配合<<运算符处理
+  过程与cin类似，cin就是istream的一个对象
   
+  is_open():试图打开一个不知道是否存在的文件，存在则返回true
+  good():比较老的方法，与is_open()类似
+
+ 
