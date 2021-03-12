@@ -12,9 +12,27 @@
  1.1.1 商业应用
    利用单独的计算机来监视生产过程，记录库存，以及管理工资的发放工作。
    连接多个计算机，关联公司信息，包括资源共享( resource sharing )。
-   
+
    计算机网络的目标：企图打破“地理位置的束缚(tryanny of geography)”
 
    数据存储在性能较强大的计算机称为服务器(server).与之对应的是客户端(client).
    这个整体结构称为“客户-服务器模型(client-server model)”.
- 1.1.2  
+
+   计算机网络的在将来有望进一步的发展：电子商务(electronic commerce, e-ecommerce)
+ 1.1.2 家庭应用
+    访问远程信息
+    个人之间的通信
+    交互式娱乐
+    电子商务
+
+    即时信息(instant messaging) 聊天室(chat room)
+
+    对等通信(peer-to-peer comminication)
+    2000年的Napster服务
+
+    电子犯罪
+
+    电子跳蚤市场(e-flea)
+
+    远程学习( telelearning )
+ 1.1.3 移动用户
