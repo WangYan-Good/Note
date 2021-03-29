@@ -95,6 +95,54 @@
   Vector类存储了矢量的直角坐标和极坐标，它使用名为mode的成员来控制使用构造函数、reset()方法和重载operator<<()函数使用哪种形式
 
 11.6 类的自动转换和强制类型转换
-  C++新增关键字explicit用于关闭自动类型转换的特性，但仍然允许显示转换
+  C++将会自动转换相互兼容的类型
+  C++新增关键字 explicit 用于关闭自动类型转换的特性，但仍然允许显示转换
+
+  只有接收一个参数的构造函数，可以隐式转换类型，例如：
+  Stonewt(double lbs);
+  可以写成下面的形式：
+  Stonewt myCat;
+  mycat = 19.6；
+
+  对于接收多个参数的构造函数，如果除了第一个参数，其他参数均提供默认值，也可以用于隐式类型转换。
+
+  通过关键字 explicit 关闭自动转换类型
+  explicit Stonewt( double lbs );
+
+  上述例子中，在不使用 explicit 关闭自动类型转换情况下，还可以用于下列情况的隐式转换：
+  1. 将Stonewt对象初始化为double值时
+  2. 将double值赋给Stonewt对象时
+  3. 将double值传递给接收Stonewt参数的函数时
+  4. 返回值被声明为Stonewt的函数试图返回double值时
+  5. 在上述任意一种情况下，使用可转换为double类型的内置类型时。
+
+
+  转换函数
+  上述将数字转换为Stonewt对象，那么是否可以将Stonewt对象转换为 double 值，例如以下例子：
+  Stronewt wolfe(285.7);
+  double host = wolfe;
+
+  通过使用C++运算符函数--转换函数，可以完成用户定义的强制类型转换。如下所示：
+  Stonewt wolfe(wolfe);
+  double host = double (wolfe);
+  double thinker = (double) wolfe;
+
+  创建转换函数
+  operator typeName();
+  示例如下：
+  operator double();
+
+  注意：
+  转换函数必须是类函数
+  转换函数不能指定返回类型
+  转换函数不能有参数
+
+  转换函数是类方法，需要通过类对象来调用，从而告知函数要转换的值，不需要参数
+  operator int() 将转换的值四舍五入为最接近的值，而不是去除小数部分
+
+  可以通过关键字 explicit 将转换运算符声明为显式的
+  explicit operator int() const;
+
+
 
 
