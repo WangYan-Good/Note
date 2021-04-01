@@ -13,3 +13,10 @@
   StringBad sailor = sports;
   StringBad sailor = StringBad(sports);
   StringBad(const StringBad &);
+
+  特殊成员函数
+  默认构造函数
+  默认析构函数
+  复制构造函数
+  赋值运算符
+  地址运算符
