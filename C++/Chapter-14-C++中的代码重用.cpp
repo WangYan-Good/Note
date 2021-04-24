@@ -139,6 +139,35 @@ has-a 关系
 
   虚二义性规则与访问规则无关
 
+14.4 类模板
+  容器类设计用来存储其他对象或数据类型，例如 Stack 类和 Queue 类
+
+  泛型，即独立于类型，可以通过将具体类型作为参数传递来生成对应类型对象。
+
+  定义类模板，模板类以下面这样的代码开头：
+  template <class Type>
+  关键字 template 告诉编译器， 将要定义一个模板，尖括号中的内容相当于函数的参数列表。
+  可以把关键字 class 看作是变量的类型名，该变量接收类型作为其值，把 Type 看作是该变量的名称。
+
+  上面使用的 class 并不意味着 Type 必须是一个类，仅表示 Type 是一个通用的类型说明符，新版本的 C++ 使用不易混淆的关键字 typename 代替 class
+  template <typename Type>
+
+  使用泛型模板定义方法时，应当注意类限定符，例如：
+  bool Stack::push( const Item & item ) { ... }
+  应该为：
+  template <class Type>
+  bool Stack<Type>::push( const Type & item ) { ... }
+
+  如果在类中定义了方法(内联定义)，则可以省略模板前缀和类限定符
+
+  模板不是类和成员函数定义，它们是C++编译器指定，说明了如何生成类和成员函数。
+  模板的具体实现被成为实例化或具体化，模板必须与特定的模板实例化请求一起使用
+
+  使用模板类，下面代码用于创建两个栈，一个用于存储 int,另一个用于存储 string 对象
+  Stack<int> kernels;
+  Stack<string> colonels;
+
+  模板中必须显示地提供所需的类型
 
 
 
