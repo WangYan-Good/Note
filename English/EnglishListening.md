@@ -45,3 +45,25 @@
 5. **one of** **major** **problem** is X meet is the develop of X to **low**.
 
    one of the major problem in the Biramichi river is that the revel of oxygen in the water is too low.
+
+# 2021.05.09
+
+1. **one of the major** problem is in **river** **oxygen in water is too low**.
+   
+   one of the major problems in the Biramichi river is that the level of oxygen in the water is too low.
+
+2. **this** camical **polution has two sources**, **the factory which** down pour **poluted water directly into the river and** **local community which** down on trip human's **waste into the river**.
+
+   This chemical pollution has two sources: the factories which dump polluted water directly into the river and the local community which dumps untreated human wastes into the river.
+
+3. **the local** time goverment **has already** spend **two millon dollars on waste water treatment** project, **but** **will cost another 27 million to complete the projects**.
+
+   the local town government already spent 2 million dollars on waste water treadment projects, but it will cost another 27 million to complete the projects.
+
+4. **It** was taking **least 15 years for the town to** collecting **enough revernue from taxes to complete this projects**.
+
+   It will take at least 15 years for the town to collect enough revenue from taxes to complete these projects.
+
+5. **The factories here** in **17 thousands people** and will as **very little** or tun
+
+   The factories here employ 17000 people in an area where there is very little alternative employment.
