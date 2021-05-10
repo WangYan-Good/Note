@@ -169,7 +169,42 @@ has-a 关系
 
   模板中必须显示地提供所需的类型
 
+  正确使用指针栈
+  提供一个指针数组，每个指针指向不同的内容，栈的职责使管理指针，并非创建指针
 
+  模板代码不能修改参数的值，也不能使用参数的地址，例如:
+    template <typename T, int size>
+    其中，&size 以及 size++ 是非法的
+
+  模板的多功能性
+  模板可用作基类，也可用作组件类，还可以作其他模板的类型参数
+
+  模板可以有多个参数，不同参数实例化的模板类是不同的
+  类模板的另一项新特性是可以为类型参数提供默认值，但是不能为函数模板参数提供默认值。例如:
+    template < typename T1, typename T2 = int > class topo {...};
+  可以为非类型参数提供默认值。
+
+  模板的具体化
+  模板以泛型的方式描述类，而具体化是使用具体的类型生成类声明。
+
+  模板的显示实例化
+  template  class XXX< type1, type2 >;
+
+  模板的显示具体化
+  显示具体化是特定类型（用于替换模板中的泛型）的定义
+  具体化类模板定义的格式如下：
+  template <> class Classname<specialized-type-name> { ... };
+
+  部分具体化
+  template <class T1， class T2 > class Pair { ... };
+  template <class T1> class Pair<T1, int > { ... };
+
+  当有多个可选模板时，编译器将选择具体化最高的现有模板
+
+  将模板用作参数
+  模板可以包含类型参数和非类型参数，模板还可以包含本身就是模板的参数。如下:
+    template < template <typename T> class  Thing > class Crab
+    模板参数是 template <typename T> class Thing , 其中 template < typenam  T > class 是类型， Thing 是参数。
 
 
 
