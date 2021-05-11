@@ -206,7 +206,50 @@ has-a 关系
     template < template <typename T> class  Thing > class Crab
     模板参数是 template <typename T> class Thing , 其中 template < typenam  T > class 是类型， Thing 是参数。
 
+  模板类和友元
+  模板类的非模板友元函数，例如:
+    template <class T>
+    class HasFriend
+    {
+    public:
+      friend void counts();     //friend to all HasFriend instantiations
+    };
 
+    为友元函数提供模板类函数，必须为使用的友元定义显示具体化，例如:
+    声明:
+      template <class T>
+      class HasFriend
+      {
+        friend void report (HasFriend<int> &);  // bound template friend
+        ...
+      };
+    定义:
+      void report ( HasFriend<short> & ) { ... };
+      void report ( HasFriend<int> & ) { ... };
 
+    模板类的约束模板友元函数，可以使友元函数本身成为模板，其中要使类的每一个具体化，都获得与友元匹配的具体化，例如:
+      template <typename T> void counts();
+      template <typename T> void report( T & );
+
+  模板类的非约束模板友元函数，通过在类内部声明模板，可以创建非约束友元函数，例如:
+    template <typename T>
+    class ManyFriend
+    {
+      ...
+      template <typename C, typename D> friend void show2 ( C &, D & );
+    };
+
+  模板别名 ( C++11 )
+  在模板设计中，可使用 typedef 为模板具体化指定别名，例如:
+    typedef  std::array<double, 12> arrd;
+    typedef  std::array<int , 12> arri;
+
+  C++11 中新增了一项功能--使用模板提供一系列别名，如下所示:
+    template <typename T>
+      using arrtype = std:: array<T,12>;
+  上例中将 arrtype 定义为一个模板别名，可使用它来指定类型。
+    arrtype<double> gallons;
+
+  总之 arrtype<T> 表示类型 std::array<T, 12>
 
 
