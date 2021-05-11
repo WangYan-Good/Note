@@ -67,3 +67,25 @@
 5. **The factories here** in **17 thousands people** and will as **very little** or tun
 
    The factories here employ 17000 people in an area where there is very little alternative employment.
+
+# 2021.05.10
+
+1. **It is not** **practical to close** all real local **the factories**.
+   
+   It is not economically practical to close or relocate the factories.
+
+2. **another problem is** the **member of** the bill meeting fishion crabrative **are over fishion**.
+
+   another problem is that member of the members of the Biramichi fishing cooperative are overfishing.
+
+3. **However, there are plenty of ways to make your will more interesting if you want to.**
+
+   However, there are plenty of ways to make your will more interesting if you want to.
+
+4. **In recent years, there has been** **unusually large number of** devoses unit stages.
+
+   In recent years, there has been an unusually large number of divorces in the United States.
+
+5. **In the past, when two people married each other, they** attend **to stay together for life**.
+
+   In the past, when two people married each other, they intended to stay together for life.
