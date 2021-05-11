@@ -89,3 +89,25 @@
 5. **In the past, when two people married each other, they** attend **to stay together for life**.
 
    In the past, when two people married each other, they intended to stay together for life.
+
+# 2021.05.11
+
+1. **In the past a large** jority **in the Americans** found **the idea of the** voice.
+
+   In the past, a large majority of the Americans forwned at the idea of divorce.
+
+2. How you would has always been known in the divorce capital of the world.
+
+   Hollywood has always been known as the divorce capital of the world.
+
+3. **until** the marrage **again become the serious and important part people** lifes, **we all** probality **continue to see the** hill read divorce.
+
+   Until marriage again become the serious and important part of people's lives, we will probably continue to see a high rate of divorce.
+
+4. **I am both** inside in **nervous about the job** **this afternoon**.
+
+   I'm both excited and nervous about the job interview this afternoon
+
+5. scienties sue **study** lay **down the program** **they can follow**.
+
+   scientists who study Mars have laid down the program that they can follow.
