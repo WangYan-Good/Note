@@ -111,3 +111,44 @@
 5. scienties sue **study** lay **down the program** **they can follow**.
 
    scientists who study Mars have laid down the program that they can follow.
+
+# 2021.05.12
+1. **the shark** mind go for the endured **fish** **had attack and take** it big write as **the time**.
+
+   The shark might go for the injured fish you had attacked and take a big bite of you at the same time.
+
+2. **a** lecture generaly **given to a much** large **group**.
+
+   a lecture's generally given to a much larger group.
+
+3. **It's rather hard to find anything for** lost **300 dollars** voluteer.
+
+   It's rather hard to find anything for less than 300 dollars around here.
+
+4. **she** found **she should contribute** **the** house of findings.
+
+   she felt that she should contribute to the household finance.
+
+5. remeber, honest is the best policy.
+
+   remember, honesty is the best policy.
+
+6. the temperature would have to be raised from 16 degree below zero to 15 degree above it.
+
+   the temperature would have to be raised from 16 degrees below zero to 15 degrees above it.
+
+7. **I found it is much better to** prase when you base **and not to be** solve when you make miss stack.
+
+   I found it's much better to praise him when he obeys and not to be so fussy when he makes mistakes.
+
+8. **Hiding is one of the best way to stay alive**.
+
+   Hiding is one of the best way to stay alive.
+
+9. **believe it or not, that's the last thing I'd ever want to do.**
+
+   Believe it or bot, that's the last thing I'd ever want to do.
+
+10. **they have been searching the area for hours, but they haven't found anybody else.**
+
+   they have been searching the area for hours, but they haven't found anybody else.
