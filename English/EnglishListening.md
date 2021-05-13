@@ -152,3 +152,25 @@
 10. **they have been searching the area for hours, but they haven't found anybody else.**
 
    they have been searching the area for hours, but they haven't found anybody else.
+
+# 2021.05.13
+
+1. **science fiction** right offered humam been going to leave 
+
+   science fiction writesrs have often imagined human beings to live on Mars.
+
+2. how many students past the  final  physics exam your class.
+
+   how many students passed the final physics exam in your class ?
+
+3. they actually negociate **set** the project the singal **points**, we have **to get two dollars for example**.
+
+   The average negotiators set their objectives as single points. We hope to get two dollars, for example.
+
+4. **around the world, they are only about 100 shark** **human each year**, ten watch prove 
+
+   around the workd, there are only about one hundred shark attacks on humans each year, ten of which proved fatal.
+
+5. **your dog** certenly **seem to** no you **master**
+
+   your dog certainly seems to know you are his master.
