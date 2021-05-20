@@ -196,3 +196,15 @@
 5. what is the most important things progrom plans to do it's to remind us what we can do to protect ourselves.
 
    One of the most important things the program plans to do is to remind us of what we can do to protect oerselves.
+
+# 2021.05.20
+
+1. In 1945, she gained the world wide recgnition by winning the Nobel price of literature the first Southern American to win the price.
+
+2. I could't have any harder, my hands are still hurting.
+
+3. She has three children, and lives in  subble about by aborad XXX
+
+4. Gean also feel bord XXX and wanted to be more involved life outside home
+
+5. with supported from Unite nations, countries will be encourage to share information about diaster reduction.
