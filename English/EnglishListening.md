@@ -174,3 +174,37 @@
 5. **your dog** certenly **seem to** no you **master**
 
    your dog certainly seems to know you are his master.
+
+# 2021.05.14
+
+1. **the space** shadrow was **taking** after tommorow.
+
+   the space shuttle is taking off tomorrow.
+
+2. take it easy, just wear tied an clean close and spond truthfully to enquirce.
+
+   Take it easy, Just wear tidy and clean clothes and respond trufully to inquiries.
+
+3. I would like to change that's somehow.
+
+   I would like to change that somehow.
+
+4. She help the mind for students skip the mind weathers and reach out the world beyond.
+
+   She helped the minds of her students scale the mountain walls and reach out to the world beyond.
+
+5. what is the most important things progrom plans to do it's to remind us what we can do to protect ourselves.
+
+   One of the most important things the program plans to do is to remind us of what we can do to protect oerselves.
+
+# 2021.05.20
+
+1. In 1945, she gained the world wide recgnition by winning the Nobel price of literature the first Southern American to win the price.
+
+2. I could't have any harder, my hands are still hurting.
+
+3. She has three children, and lives in  subble about by aborad XXX
+
+4. Gean also feel bord XXX and wanted to be more involved life outside home
+
+5. with supported from Unite nations, countries will be encourage to share information about diaster reduction.
