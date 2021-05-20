@@ -7,3 +7,5 @@
   运行阶段类型识别（RTTI）
   dynamic_cast 和 typeid
   static_cast 、 const_cast 和 reinterpret_cast
+
+  15.1 友元
