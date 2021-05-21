@@ -442,3 +442,8 @@ repertoire  n.可表演项目，全部才能
 
 compete v.竞争，争夺
 
+# 2021.05.21
+
+tension n.张力，拉伸，矛盾，紧张局势 v.绷紧
+
+theater n.剧场，戏剧，战场，戏剧作品
