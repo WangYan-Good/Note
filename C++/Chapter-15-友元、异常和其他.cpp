@@ -140,3 +140,11 @@
   如果指向的对象(*pt)的类型为 type 或者是从 type 直接或间接派生出来的类型，下面的表达式将指针pt转换为type类型的指针：
   dynamic_cast<Type *> (pt)
   否则，结果为0，即空指针
+
+  typeid 运算符和 type_info 类
+  typeid 运算符能够确定两个对象是否为同种类型，它接受两个参数：
+  1) 类名
+  2) 结果为对象的表达式
+  typeid 运算符返回一个对 type_info 对象的引用， type_info  在头文件 typeinfo 中声明
+
+  如果发现在扩展的 if else 语句系列中使用了 typeid  ，则应考虑是否应该使用虚函数和 dynamic_cast
