@@ -208,3 +208,25 @@
 4. Gean also feel bord XXX and wanted to be more involved life outside home
 
 5. with supported from Unite nations, countries will be encourage to share information about diaster reduction.
+
+# 2021.05.24
+
+1. It's the rescure crouse still looking for server plan crush
+
+   Is the rescue crew still looking for survivors of the plane crash ?
+
+2. a pretty is the animal that hunt eat other animals.
+
+   a predator is an animal that hunts and eats other animals.
+
+3. Gean was worried about her childred the juicement to the new of the situation
+
+   Jean was worried about her children's adjustment to this new situation.
+
+4. their every nigociate try to purswite by giving lots of reasons, the user lost a different arguements.
+
+   the average negotiators tried to persuade bu giving lots of reasons. They use a lot of different grauements.
+
+5. I do hope you go ahead in real of the pertensure benifetu too many kinds.
+
+   
