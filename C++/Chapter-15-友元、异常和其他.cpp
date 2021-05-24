@@ -148,3 +148,18 @@
   typeid 运算符返回一个对 type_info 对象的引用， type_info  在头文件 typeinfo 中声明
 
   如果发现在扩展的 if else 语句系列中使用了 typeid  ，则应考虑是否应该使用虚函数和 dynamic_cast
+
+  const_cast 运算符用于执行只有一种用途的的类型转换，改变值为 const 或 volatile ,  其用法与 dynamic_cast 运算符相同:
+    const_cast <type-name > (expression)
+  const_cast 运算符可以删除 const int* pt 中的 const
+
+  static_cast 运算符的语法与其他类型转换运算符相同
+  static_cast <type-name> (expression)
+  仅当 type_name 可被隐式转换为 expression 所属的的类型或者 expression 可被隐式转化为 type_name 所属的类型时，类型转换才是合法的，否则将会出错。
+
+  reinterpret_cast 运算符用于天生危险的类型转换。它不允许删除 const ，但会执行其他令人生厌的操作。有时程序员必须做一些依赖于实现的、令人生厌的操作。
+  该运算符的语法与另外三个相同：
+  reinterpret_cast <type-name> (expression)
+
+  由于 char 类型太小，不能存储指针，在C语言中是允许的，但C++中是通常不允许。
+  char ch = char (&d);
