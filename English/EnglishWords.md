@@ -682,3 +682,39 @@ coach n.长途汽车，长途客车；教练；辅导教师 v.训练，培养，
 
 publication n.出版物，发表，公布，发行
 
+# 2021.05.26
+
+equipment n.设备，装备，器材，配备
+
+criterion n.标准，准则
+
+agenda n.议事日程
+
+estate n.地产，财产，遗产；庄园；工业区；商业区；住宅区；阶层，社会地位；阶段，状况
+
+notion n.观念，想法，主张
+
+plot n.阴谋；情节；图；土地 v.图谋，密谋；计划，制定
+
+poll n.民意测验，民意调查；投票数；得票 v.做民意调查；获得选票
+
+attend v.参加；注意，照料
+
+occupy v.占领，占用；住进
+
+revolution n.革命；重大变革；巨大变化
+
+steal v.偷，窃取；悄悄地移动
+
+convention n.惯例，习俗，规矩；会议；全体与会者；国际公约
+
+represent v.代表，表示；作为...的代表；象征；描绘，表现
+
+presidential adj.总统的，统辖的
+
+extent n.程度；范围
+
+minority n.少数派；少数群体；少数民族
+
+external adj.外部的，外面的，外来的
+
