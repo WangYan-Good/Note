@@ -229,4 +229,14 @@
 
 5. I do hope you go ahead in real of the pertensure benifetu too many kinds.
 
-   
+ # 2021.06.01
+
+ 1. her salary can make difference between the finacal strugle and security finacal situation for her family.
+
+ 2. looks like going to be late for class I hope professor clack today
+
+ 3. boring and reason central I am country girl through
+
+ 4. now the same seem need to be done, but gean has only evening than early morning still do them.
+
+ 5. for instance, a night food shark only need to pound food day to keep health.
