@@ -975,4 +975,45 @@ gear n.排挡；齿轮；传动装置；设备，用具；衣服 v.用齿轮连�
 
 productivity n.生产率；生产力；生产能力
 
+# 2021.06.04
+
+profound adj.深远的，深切的；深奥的；渊博的，造诣深的；极度的，彻底的
+
+civilian n.平民；老百姓；庶民 adj.平民的，民间的；民用的，非军用的
+
+virtue n.美德，优点；善行
+
+drift v.漂流；缓慢移动；漂泊 n.漂流，移动
+
+clip v.剪辑；修剪；消减；夹住 n.夹子；钳；视频片段
+
+genuine adj.真正的，真实的；诚恳的
+
+poster n.海报，招贴画，宣传画，标语
+
+gender n.性别 v.同<engender>
+
+shelter n.庇护所，避难所，庇护；遮蔽物 v.庇护，保护；躲避；遮挡
+
+oral adj.口头的；口服的 n.口试
+
+broadcast n.广播节目，电视节目 v.广播，播送，传播 adj.播音的，撒播的，广泛分布的
+
+organ n.器官；风琴；口琴；机构，机关
+
+personnel n.人事部门；人员，职员
+
+coordinate v.协调，相配合；使动作协调 n.坐标；搭配，协调
+
+compensation n.补偿物；赔偿金；使坏的情况变好的事务
+
+inevitable adj.不可避免的，必然的
+
+recipe n.食谱；处方；秘诀
+
+leather n.皮革，皮手套 v.制成皮，蒙上皮，抽打 adj.皮革的
+
+rational adj.合理的；理性的，理智的；明事理的；神智健全的；有理数的
+
+mortality n.死亡率，生命的有限，死亡数量
 
