@@ -1017,3 +1017,61 @@ rational adj.合理的；理性的，理智的；明事理的；神智健全的�
 
 mortality n.死亡率，生命的有限，死亡数量
 
+# 2021.06.05
+
+tap n.水龙头，轻拍，轻敲，轻叩，窃听 v.开发，轻拍，轻敲，轻叩，窃听
+
+leather n.皮革，皮外套 v.制成皮，蒙上皮，抽打 adj.皮革的
+
+offense n.犯罪，过错，攻击，令人讨厌的事务，伤感情，得分率 n.前锋，进攻方法，攻势
+
+lease n.租约，租契 v.租用，租借，出租
+
+democrat n.民主党人，民主主义者
+
+clip v.剪辑；修剪；消减；夹住 n.夹子；钳；视频片段
+
+pregnant adj.怀孕的；意义重大的，意味深长的
+
+constraint n.限制；限定；约束，严管
+
+weigh v.权衡；称...重量；重量为...；具有重要性
+
+anticipate v.预期，预料；期待；先于...之前
+
+recipe n.食谱；处方；秘诀
+
+crystal n.水晶，结晶体，晶体，水晶玻璃 adj.晶莹的，如水晶般的，清楚的，显而易见的
+
+correlation n.相互关系，相关，关联
+
+excess adj.过量的，附加的 n.超过，超越，过度，过量
+
+shelter n.庇护所，避难所，庇护；遮蔽物 v.庇护，保护；躲避；遮挡
+
+underneath prep.在...下面 adv.在下面；在内心深处；心底里
+
+resemble v.与...相似，类似
+
+compensation n.补偿物；赔偿金；使坏的情况变好的事务
+
+rational adj.合理的；理性的，理智的；明事理的；神智健全的；有理数的
+
+situate v.使处于某种境地；使坐落于
+
+titual n.习惯，程序，仪规，礼节 adj.仪式上的，庆典的，习惯的，老套的
+
+inevitable adj.不可避免的，必然的
+
+genuine adj.真正的，真实的；诚恳的
+
+thrust v.刺，塞，冲，挤 n.刺，插，重点，猛推
+
+preference n.喜好；偏好；偏爱
+
+virtue n.美德，优点；善行
+
+mortality n.死亡率，生命的有限，死亡数量
+
+cognitive adj.认知的，感知的，认识的
+
