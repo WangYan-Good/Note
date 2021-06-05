@@ -91,3 +91,67 @@
   shared_ptr
   这三个智能指针模板都定义了类似指针的对象，可以将 new 获得的地址直接赋给这种对象。
   在智能指针过期时，这些内存将会自动释放。
+
+  要创建智能指针对象，必须包含头文件 memory , 该文件模板定义。
+  模板 auto_ptr 包含如下构造函数：
+  template < class X > class auto_ptr {
+    public:
+      explicit auto_ptr ( X * p = 0 ) throw();
+      ...
+  };
+  其中，throw() 意味着构造函数不会引发异常
+
+  智能指针应该避免的一种：
+  string vacation( "I wandered longly as a cloud." );
+  shared_ptr<string> pvac( &vacation );
+  当 pvac 过期时，程序会把 delete 运算符用于非堆内存，这是错误的
+
+  有关智能指针的注意事项
+  实际上有4种
+  auto_ptr<string> ps ( new string( "I reigned lonely as a cloud." ) );
+  auto_ptr<string> vocation;
+  vocation = ps;
+
+  以上程序中应当避免同一块内存避免回收两次。要避免这种问题，方法有多种：
+  定义赋值运算符，使之进行深复制。
+  建立所有权（ownership）概念，对于特定的对象，只能有一个智能指针可拥有它。  // auto_ptr
+  创建智能更高的指针，跟踪引用特定对象的智能指针数。这称为引用计数( reference counting ).  // share_ptr
+
+  unique_ptr 为何优于 auto_ptr
+  unique_ptr 比 auto_ptr 更安全（编译阶段错误比潜在的程序崩溃更安全）
+
+  unique_ptr <string> p3 ( new string("quto") );
+  unique_ptr <string> p4 ;
+  p4 = p3; //#6
+  使用 unique_ptr 可以将会认为 #6 非法，避免 p3 不再指向有效数据的问题，而使用 auto_ptr 会出现 p4 内存自动回收之后，p3 指向无效内存，内存回收时出现错误的问题。
+
+  欲要将 unique_ptr 赋值给另一个，可以使用 C++ 标准库函数 std::move();
+
+  相比于 auto_ptr, unique_ptr 还有另一个优点。它有一个可用于数组的变体。
+  模板 auto_ptr 自动回收内存时使用的是 delete , 而不是 delete[], 无法对数组使用。 unique_ptr 有使用 new[] 和 delete[] 的版本。
+  std::unique_ptr<double []> pda( new double(5) );
+
+  选择哪种智能指针
+  如果程序要使用多个指针指向同一个对象的，应选择 shared_ptr, 如果编译器没有提供 shared_ptr, 可以使用 boost 库提供的 shared_ptr
+  如果程序不需要多个指向同一个对象的指针，则可以使用 unique_ptr
+
+  将 unique_ptr 转换为 shared_ptr, shared_ptr 将接管原来归 unique_ptr 所有的对象。
+  在满足 unique_ptr 要求的条件时，也可以使用 auto_ptr, 但 unique_ptr 是更好的选择。如果编译器没有提供 unique_ptr ,可以考虑使用 boost 库中的 scoped_ptr, 它与 unique_ptr 类似。
+
+16.3 标准模板库
+  STL 提供了一组表示容器、迭代器、函数对象和算法的模板。
+  容器是一个与数组类似的单元，可以存储若干个值。STl的容器是同质的，存储的值类型相同。
+  算法是完成特定任务的处方。
+  迭代器是用来遍历容器的对象，与能够遍历链表的指针类似，是广义指针
+  函数对象是类似于函数的对象，可以是类对象或函数指针
+  STL 使得能够构造各种容器和执行各种操作
+
+  STL 不是面向对象的编程，而是一种不同的编程模式--泛型编程( generic programming )
+
+  模板类 vector
+  vector 类提供了 valarray 和 array 类似的操作，即可以创建 vector 对象，将一个 vector 对象赋给另一个对象，使用 []运算符来访问 vector 元素。
+  #include vector
+  using namespace std;
+  vector<int> rating(5);
+  由于运算符[]被重载，因此创建 vector 对象后，可以使用通常的数组表示法来访问各个元素
+
