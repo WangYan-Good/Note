@@ -1075,3 +1075,61 @@ mortality n.死亡率，生命的有限，死亡数量
 
 cognitive adj.认知的，感知的，认识的
 
+# 2021.06.06
+
+ritual n.习惯，程序，仪规，礼节 adj.仪式上的，庆典的，习惯的，老套的
+
+invasion n.入侵，侵略
+
+constraint n.限制；限定；约束，严管
+
+priest n.祭司；神父；牧师；神职人员；占有领导地位的人 vt.任命...为祭司；使成神职人员
+
+compensation n.补偿物；赔偿金；使坏的情况变好的事物
+
+virtue n.美德，优点；善行
+
+reluctant adj.不情愿的，勉强的
+
+anticipate v.预期，预料；期待；先于...之前
+
+deliberately adv.故意的，蓄意的；从容不迫地；小心谨慎地
+
+importantly adv.重要的是，自负地，自命不凡的
+
+thoroughly adv.彻底的，非常，十分，仔细地
+
+smooth adj.平滑的；平坦的；平稳的；均匀的，细腻的；流畅的；顺利的 v.抚平，使平滑；弄平整；磨平；轻轻涂抹；使平和，缓和；变平滑
+
+deck n.甲板，舱面，层面，一副 v.装饰，打扮，布置，用力击倒
+
+mortality n.死亡率，生命的有限，死亡数量
+
+resemble v.与...相似，类似
+
+offense n.犯罪，过错，攻击，令人讨厌的事物，伤感情，得分率 n.前锋，进攻方法，攻势
+
+interior adj.内部的；内地的；国内的；在内的 n.内部；内陆，内地；内政
+
+democrat n.民主党人，民主主义者
+
+assembly n.议会；集合，集会；装配
+
+rourism n.旅游业，观光业
+
+fade v.褪色；逐渐消失；衰弱，变得虚弱 n.淡入；故出
+
+defect n.缺点，缺陷 v.背叛
+
+journal n.杂志，期刊；日记
+
+lease n.租约，租契 v.租用，租借，出租
+
+handful n.一把，用手抓起地数量，少数人，难对付的人
+
+crystal n.水晶，结晶体，晶体，水晶玻璃 adj.晶莹的，如水晶般的，清楚的，显而易见的
+
+diminish v.减少，减弱，降低；贬低，贬损；轻视
+
+thrust v.刺，塞，冲，挤 n.刺，插，重点，猛推
+
