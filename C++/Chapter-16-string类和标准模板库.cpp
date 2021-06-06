@@ -155,3 +155,78 @@
   vector<int> rating(5);
   由于运算符[]被重载，因此创建 vector 对象后，可以使用通常的数组表示法来访问各个元素
 
+  可对矢量执行的操作
+  STL 提供了一些基本方法
+  size() -- 返回容器中元素数目
+  swap() -- 交换两个容器的内容
+  begin() -- 返回一个容器中的第一个元素的迭代器
+  end() -- 返回一个表示超过容器尾的迭代器
+
+  通过广义指针化为迭代器，让 STL 能够为各种不同的容器类提供统一的接口。
+  每个容器类都定义了一个合适的迭代器，该迭代器的类型是一个名为 iterator 的 typedef , 其作用域为整个类
+  为 vector 的 double 类型规范声明一个迭代器，可以这样做：
+  vector<double>::iterator pd;
+  vector<double> scores;
+  pd = scores.begin();
+  如上所示，迭代器的行为与指针很类似。另外，C++11 自动类型判断可以这样做：
+  auto pd = scores.begin();
+  它与下面声明等价：
+  vector<double>::iterator pd = scores.begin();
+
+  vector 模板类也包含一些只有某些 STL 容器才有的方法。
+  push_back() 是一个方便的方法，它将元素添加到矢量末尾。它将负责内存管理，增长矢量的长度，使之能容纳新的成员。
+
+  erase() 方法删除矢量中给定区间的元素。如下所示：
+  scores.erase( scores.begin(), scores.begin()+2 );
+
+  insert() 方法的功能与 erase() 方法相反。它接收 3 个迭代器参数，第一个参数指定了新元素的插入位置，第二个和第三个参数定义了被插入区间，该区间通常是另一个容器的对象的一部分。例如下面的代码所示：
+  vector<int> old_v;
+  vector<int> new_v;
+  ...
+  old_v.insert( old_v.begin(), new_v.begin()+1, new_v.end() );
+
+  对矢量可执行的其他操作
+  3 个具有代表性的 STL 函数： for_each(), random_shuffle() 和 sort()
+
+  for_each() 函数接收 3 个参数，前两个是定义容器中区间的迭代器，最后一个是指向函数的指针。
+  for_each() 函数将被指向的函数应用于容器区间中的各个元素。被指向的函数不能修改容器元素的值。可以用 for_each() 函数来代替 for 循环，例如：
+  vector<Review>::iterator pr;
+  for( pr = books.begin(); pr != books.end(); pr++ )
+    ShowReview( *pr );
+  替换为：
+  for_each( books.begin(), books.end(), ShowRevicew );
+
+  random_shuffle() 函数接受两个指定区间的迭代器参数，并随机排列该区间中的元素。例如：
+  random_shuffle( books.begin(), books.end() );
+  该函数要求容器类允许随即访问， vector 类可以做到这一点。
+
+  sort() 函数也要求容器支持随机访问。该函数有两个版本
+  第一个版本接收两个定义区间的迭代器参数，并使用为存储在容器中的类型元素定义的 < 运算符，对区间中的元素进行操作。
+  如果容器元素是用户定义的对象，则要使用 sort(), 必须定义能够出来该类型对象的 operator<() 函数。
+
+  以上用法为 sort() 函数的升序排列，如果是使用降序，则可以使用另一种格式的 sort()
+  该格式的 sort() 函数接受 3 个参数，前两个函数也是指定区间的迭代器，最后一个参数是指向要使用的函数的指针（函数对象），而不是用于比较的 operator<(), 返回值可转换为 bool, false 表示两个参数的顺序不正确。
+  bool WorseThan( const Revicew & r1, const Review & r2 )
+  {
+    if( r1.rating < r2.rating )
+      return true;
+    else
+      return false;
+  }
+
+  sort( books.begin(), books.end(), WorseThan );
+
+  基于范围的 for 循环（C++11）
+  基于范围的 for 循环是为用于 STL 而设计的
+  double prices[5] = {};
+  for( double x : prices )
+    cout << x << std::endl;
+  以下代码可以相互替换
+  for_each( books.begin(), books.end(), ShowReview );
+  =
+  for( auto x : books ) ShowReview(x);
+
+  不同于 for_each(), 基于范围的 for 循环可修改容器的内容，诀窍是指定一个引用参数。如下：
+  void InflatReview( Review & r ) { r.rating++; }
+  =
+  for( auto & x : books ) InflateReview( x );
