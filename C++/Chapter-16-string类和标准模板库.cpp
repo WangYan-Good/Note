@@ -264,5 +264,81 @@
 
   概念，改进和模型
   将指针用作迭代器
+  STL 为输出迭代器提供了 ostream_iterator 模板， 该模板是输出迭代器概念的一个模型，它也是一个适配器( adapter ) -- 一个类或函数，可以将一些其他接口转换为STL使用的接口。
+  可以通过包含头文件 iterator ( iterator.h ) 来声明和创建该迭代器。
+  #include <iterator>
+  ...
+  ostreambuf_iterator<int ,char> out_iter( cout, " " );
+
+  iterator 头文件还定义了一个 istream_iterator 模板，使 istream 输入可作为迭代器接口。
+  与 ostreambuf_iterator 相似， istream_iterator 也使用两个模板参数。第一个参数指出要读取的数据类型，第二个参数指出输入流使用的字符类型。
+  使用构造函数参数 cin 意味着由 cin 管的的输入流，省略构造函数参数表示输入失败。
 
   其他有用的迭代器
+  除了 ostreambuf_iterator 和 istreambuf_iterator 之外，头文件 istream 还提供了一些专门的预定义迭代器类型。
+  reverse_iterator
+  back_insert_iterator
+  front_insert_iterator
+  insert_iterator
+
+  vector 类中有一个名为 rbegin() 的成员函数和一个名为 rend() 的成员函数，前者指向一个只想超尾的反向迭代器，后者返回一个指向第一个元素的反向迭代器。
+
+  注意: rbegin() 和 end() 返回相同的值( 超尾 ), 但类型不同( reverse_iterator 和 iterator ), 同样， rend() 和 end() 也是如此
+
+  rbegin() 返回超尾，因此不能对地址进行解引用
+  如果 rend() 是第一个元素的位置，则 copy() 必须提早一个位置停止，因为区间的结尾不包括在区间中。
+
+  copy() 不仅可以将信息从一个容器复制到另一个容器中，还可以将信息从容器复制到输出流，从输入流复制到容器中，还可以使用 copy() 将信息插入到另一个容器中。
+
+  容器种类
+  STL 具有容器概念和容器类别
+  概念是具有名称的通用类型
+  容器类型是可用于创建具体容器对象的模板
+
+  以前 11 个容器类型分别是
+  deque list queue priority_queue stack vector map multimap set multiset bitset
+  C++ 11 新增了
+  forward_list unordered_map unordered_multimap unordered_set unordered_multiset, 且不将 bitset 视为容器，而将其视为一种独立的类别
+
+  容器概念
+  容器是存储其他对象的对象，被存储的对象必须是同一类型的
+  存储在容器中的数据为容器所有，这意味着当容器过期时，存储在容器中的数据也将过期
+
+  复杂度要求是 STL 特征，虽然实现细节可以隐藏，但性能规格应公开，以便程序员能够知道完成特定操作的计算成本。
+
+  C++11 新增的容器要求
+  复制构造和复制赋值以及移动构造和移动赋值之间的差别在于，复制操作保留源对象，而移动操作可以修改源对象，还可能转让所有权，而不做任何复制
+  如果源对象是临时的，移动操作的效率将高于常规复制
+
+  序列
+  序列要求元素按严格的线性顺序排列
+
+  7 种序列容器类型
+  vector: 数组的一种类表示，提供了内存自动管理功能，可以动态改变 vector 对象的长度，提供了对元素的随机访问。 vector 还是可反转容器( reversible container )概念的模型。
+  deque: 在头文件 deque 头文件中声明，表示双端队列，在 STL 中，实现类似 vector 容器，支持随机访问。
+  list: 在 list 头文件中声明，表示双向链表，与 vector 相似, list 也是可反转容器， list 不支持数组表示法和随机访问。
+  forward_list: 只需要单项迭代器，不可反转，类似于单项链表
+  queue: 适配器类，让输出流能够使用迭代器接口，它不仅不允许随机访问队列元素，甚至不允许遍历队列
+  priority_queue: 另一个适配器类，操作与 queue 相同，但在 priority_queue 中，最大的元素被移动到队首，默认的底层类是 vector
+  stack: 适配器类，不允许随机访问栈元素，不允许遍历栈
+  array: 并非 STL 容器，长度是固定的
+
+  关联容器
+  关联容器( associative container ) 是对容器概念的另一个改进。
+  关联容器将值与键关联在一起，并使用键来查找值，它提供了对元素的快速访问，允许插入新元素，但不能指定元素的插入位置。
+
+  关联容器通常是使用某种树实现的
+
+  STL 提供了 4 种关联容器: set multiset map multimap
+
+  set 也使用模板参数来指定要存储的值类型：
+  set<string> A;
+  显示集合A与B的并集：
+  set_union( A.begin(), A.end(), B,begin(), B.end(), ostream_iterator<string, char> out( cout, "  " ) );
+
+  函数 set_intersection() 和 set_difference() 分别查找交集和获得两个集合的差
+
+  无序关联容器( C++11 )
+  关联容器基于树结构
+  无序关联容器基于数据结构哈希表，有 4 种无序关联容器
+  unordered_set unordered_multiset unordered_map unordered_multimap
