@@ -1187,3 +1187,59 @@ heal v.复原，治疗，使又愉快起来，结束
 
 fence n.栅栏，篱笆，围栏 v.击剑；围住，隔开
 
+# 2021.06.12
+
+intensity n.强烈，剧烈，紧张；强度，烈度；色饱和度
+
+consciousness n.知觉，感觉；意识，观念；觉悟
+
+commodity n.商品；有用的东西；有使用价值的事物
+
+spectacular adj.壮观的，壮丽的，令人惊叹的 n.壮观的场面，精彩的表演
+
+separately adv.单独的，分别的
+
+counsel n.劝告，忠告，建议；法律顾问；律师 v.提供专业咨询；建议，劝告
+
+explicit adj.清楚明白的；易于理解的；明确的；直言的
+
+innocation n.创新，革新；新观念；新方法
+
+grab v.抓住，抓取；利用，赶紧 n.争夺
+
+whilst conj.同 while n.同 the while
+
+scatter v.撒播；使分散；驱散；消散；分散；零星出现；散射 n.撒播；散布；消散；零星少量；零星散布的东西
+
+bid n.出价；投标；努力争取 v.出价；投标；吩咐；努力争取
+
+sketch n.草图，略图，素描；简述，概要；小品 v.为...画素描；简述
+
+admission n.准许加入，许可；入场费，入会费；入场券；承认，供人
+
+clinical adj.临床的，临床诊断的；冷静的；客观的；没有人情味的
+
+pump n.泵，抽水机，打气筒，船鞋 v.追问，盘问，用泵输送，涌出 addr.政治新星
+
+curriculum n.全部课程
+
+upward 向上的，上升的 adv.向上，上升
+
+dare n.挑战，激将 v.敢于，胆敢，激，问有没有胆量 auxv.敢
+
+transportation n.运输；运输系统；运输工具
+
+adoption n.收养，领养；采用，采纳
+
+cigarette n.卷烟，香烟，纸烟
+
+composition n.成分，构成；组合方式；作曲；作文；小论文
+
+ski n.滑雪板 v.滑雪，滑雪 adj.滑雪的
+
+deem v.认为，视为，相信
+
+oblige v.强迫，迫使；帮忙，效劳；使感激；使成为必要 phrase.觉得有必要做；不得不做
+
+thereby adv.因此；由此；从而
+
