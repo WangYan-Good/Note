@@ -416,4 +416,48 @@
   next_permutation() 自动提供唯一的排列组合
 
   函数和容器方法
+  删除链表 list<int> 中某个特定的值的所有实例，可以使用链表的 remove() 方法，例如：
+  la.remove(4); // remove all 4 s from the list
+  调用该方法后，所有该值的实例都将被删除，同事链表的长度将会自动调整
+
+  还有一个 remove() 的STL算法，它不是由对象调用，而是接受区间参数，例如：
+  remove( lb.begin(), lb.end(), 4 );
+  由于该函数不是成员，因此不能调整链表长度。它将未被删除的元素至于链表开始位置，返回新的超尾迭代器
+
+  可以使用链表的 erase() 方法来删除一个区间
+
+  使用 STL
+  STL 是一个库，其组成部分被设计成协同工作。STL 组件是工具，但是也是创建其他工具的基本部件
+  要获得容器中元素的出现次数，可以使用 count() 函数。它将区间和一个值作为参数，返回该值在区间中出现的次数。
+
+  map可以使用数组表示法来访问存储的值。 例如 wordmap[ "the" ], 表示与键 "the" 相关联的值
+  map 一般与 set 组合来遍历整个容器
+  使用 STL 时应尽可能减少要编写的代码，STL 通用灵活的设计将节省大量的工作。
+
+16.7 其他库
+  C++ 还提供了其他类库
+  头文件 complex 为复数提供了类模板 complex, 包含用于 float, long 和 long double 的具体化
+  头文件 random 提供了更多的随机数功能
+  头文件 valarray 提供了模板类 valarray, 用于表示数值数组，支持各种数值数组操作。
+
+  vector, valarray 和 array
+  vector 模板类是一个容器类和算法系统的一部分，它支持面向容器的操作，如排序、插入、重新排列、搜索、将数据转移到其他容器中等。
+  valarray 类模板是面向数值计算的，不是 STL 的一部分，它没有 push_back() 和 insert() 方法，但为很多数学运算提供了一个简单、直观的接口。
+  array 是为替代内置数组而设计的，它通过提供更好、更安全的接口、让数组更紧凑、效率更高。它表示程度固定的数组，不支持动态扩展。
+
+  就数学运算而言，valarray 类提供了比 vector 更清晰的表示方式，但通用性更低。
+  针对 valarray 对象使用 sort() 函数，可以使用
+  sort( begin( val ), end( val ) );
+
+  slice 类对象可用作数组索引，slice 对象被初始化为 3 个整数值：起始索引、索引数、跨距
+  另外，使用 gslice 类可以表示多维下标
+
+  模板 initializer_list ( C++ )
+  可以使用初始化列表语法将 STL 容器初始化为一系列值
+  std::vector<double> payments { 45.99, 39.23, 19.95, 89.01 };
+  之所以可行，是因为容器类现在包含将 initializer_list<T> 作为参数的构造函数。上述代码与下面的代码等价
+  std::vector<double> payments ({ 45.99, 39.23, 19.95, 89.01 });
+
+  使用 initializer_list
+  可按值传递 initializer_list 对象，也可按引用传递
 
