@@ -1345,3 +1345,48 @@ sponsor n.赞助者，赞助商；发起者 v.发起；赞助
 
 bang v.猛敲；砰然重击；猛摔；砰地关上；砰砰作响 n.砰，啪；猛击，猛撞；刘海 adv.正好，完全地 int.砰
 
+# 2021.06.15
+lane n.车道，小巷，甬道，胡同
+
+bat n.蝙蝠，球拍，球棒，球板 v.用球板击球， 拍打 abbr.教法学学士
+
+chamber n.议会，议院；房间，室
+
+civilization n.文明，文化
+
+neat adj.整洁的，整齐的，有序的，有条理的 n.牛，牛粪
+
+combat n.搏斗；打仗；战斗 v.防止；减轻；战斗，与...搏斗
+
+sanction n.制裁，批准，处罚，约束 v.许可，准许，准予，惩罚
+
+ethnic adj.民族的，种族的，具有民族特色的，异国风味的 n.少数民族的人
+
+consitution n.宪法；构成，组成；体质，体格
+
+clause n.子句，从句，分句，条款
+
+tremendous adj.巨大的；惊人的；极好的
+
+reckon v.认为，想，估计，计算
+
+consensus n.一致的意见，共识
+
+trick n.技巧，诡计，诀窍，把戏 v.欺骗，欺诈 adj.意在欺骗的，容易使人上当的，虚弱有毛病的
+
+wheat n.小麦，小麦籽
+
+protrait n.肖像，画像；描绘；写照；竖排格式 adj.竖向的；纵向打印格式的
+
+leak v.漏水，透露，使泄露，传开 n.泄露，渗漏，漏洞，裂缝
+
+correspondence n.来往信件；通信联系；相关，相似
+
+practically adv.几乎，差不多，很接近，实事求是的
+
+stimulate v.刺激，激励；促使，引起；促进功能
+
+emission n.排放，散发，射出；排放物，散发物
+
+sponsor n.赞助者，赞助商；发起者 v.发起；赞助
+
