@@ -1390,3 +1390,52 @@ emission n.排放，散发，射出；排放物，散发物
 
 sponsor n.赞助者，赞助商；发起者 v.发起；赞助
 
+# 2021.06.16
+
+clause n.子句，从句，分句，条款
+
+colony n.殖民地；聚居地
+
+emission n.排放，散发，射出；排放物，散发物
+
+trick n.技巧，诡计，诀窍，把戏 v.欺骗，欺诈 adj.意在欺骗的，容易使人上当的，虚弱有毛病的
+
+reckon v.认为，想，估计，计算
+
+charm n.魔力；魅力，吸引力；护身符；小饰物 v.吸引，使着迷
+
+clarify v.澄清，阐明，使...明晰
+
+sanction n.制裁，批准，处罚，约束 v.许可，准许，准予，惩罚
+
+pretend v.假装，佯装，自称，模拟 adj.假装的，想象的
+
+practically adv.几乎，差不多，很接近，实事求是的
+
+stimulate v.刺激，激励；促使，引起；促进功能
+
+lifetime n.一生，终生；存在期，使用期 adj.一生的；终身的
+
+bat n.蝙蝠，球拍，球棒，球板 v.用球板击球，拍打 abbr.教法学学士
+
+investigator n.调查员，侦查员
+
+lecture n.演讲，训斥 v.讲课，训斥
+
+mortality n.死亡率，生命的有限，死亡数量
+
+proposition n.提议，建议；观点，主张；欲做的事，待处理的问题；任务 v.向...求欢；向...提议
+
+parish n.教区，堂区，乡村行政小区，教区居民
+
+lane n.车道，小巷，甬道，胡同
+
+tournament n.锦标赛，联赛，骑马比武
+
+favorable adj.顺利的，良好的，有望的，赞成的，偏袒的，有利的
+
+chamber n.议会，议院；房间，室
+
+unite v.联合，团结，统一
+
+exploration n.探险，踏勘，勘测；研究
