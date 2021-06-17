@@ -1501,3 +1501,24 @@ stimulate v.刺激，激励；促使，引起；促进功能
 attendance n.出席，到场；出席人数，出席率
 
 superior adj.比...好的，比...强的；更高的；上级的；有优越感的；高傲的 n.上级，长官，级别更高的人；占优势者；优质物品
+
+attendance n.出席，到场；出席人数，出席率
+
+elegant adj.优雅的；精美的；俊美的；简练的，简洁的
+
+pretend v.假装，佯装，自称，模拟 adj.假装的，想象的
+
+superior
+
+reckon v.认为，想，估计，计算
+
+cattle
+
+bare adj.赤裸的；光秃秃的；勉强的，刚刚够的；仅有的
+
+bend v.弯曲；歪曲 n.弯曲；弯道
+
+sanction
+
+punch n.一拳，一击；感染力，吸引力；打孔器 v.用拳击打；敲击；打孔
+
