@@ -1439,3 +1439,65 @@ chamber n.议会，议院；房间，室
 unite v.联合，团结，统一
 
 exploration n.探险，踏勘，勘测；研究
+
+# 2021.06.17
+
+neat adj.整洁的，整齐的，有序的，有条理的 n.牛，牛类
+
+communist n.共产主义者，共产主义的支持者，共产党党员 adj.共产主义的，共产党的
+
+trick n.技巧，诡计，诀窍，把戏 v.欺骗，欺诈 adj.意在欺骗的，容易使人上当的，虚弱有毛病的
+
+tournament n.锦标赛，联赛，骑马比武
+
+bat
+
+brick
+
+explicit
+
+deficit n.赤字，逆差，亏损，不足额
+
+favorable adj.顺利的，良好的，有望的，赞成的，偏袒的，有利的
+
+unite v.联合，团结，统一
+
+parish n.教区，堂区，乡村行政小区，教区居民
+
+dare
+
+participation n.参加，参与
+
+extraordinary adj.意想不到的，不平常的；非凡的；特派的；临时的
+
+preliminary adj.预备的；初步的 n.准备工作；初步行动
+
+lane n.车道，小巷，甬道，胡同
+
+substitute v.用...代替，代以 n.代替者，代替物
+
+chamber
+
+occupation n.职业；消遣，日常活动；占领，占用
+
+captain
+
+span
+
+portrait n.肖像，画像；描绘；写照；竖排格式 adj.竖向的；纵向打印格式的
+
+continuous adj.连续的，继续的，连绵不断的
+
+emission n.排放，散发，射出；排放物，散发物
+
+virtual adj.虚拟的，模拟的；实际上的，实质上的
+
+virtue n.美德，优点；善行
+
+celebrity n.名人，名流，著名，名望
+
+stimulate v.刺激，激励；促使，引起；促进功能
+
+attendance n.出席，到场；出席人数，出席率
+
+superior adj.比...好的，比...强的；更高的；上级的；有优越感的；高傲的 n.上级，长官，级别更高的人；占优势者；优质物品
