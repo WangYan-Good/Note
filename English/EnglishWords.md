@@ -529,7 +529,7 @@ repertoire n.可表演项目，全部才能
 conference  n.会议
 
 tire    v.疲劳，厌倦，疲倦，筋疲力竭 n.轮胎，车胎，女用头饰
-
+shi'li'bu
 dramatic    adj.急剧的；激动人心的；戏剧性的
 
 suspect v.怀疑，不信任；猜想；怀疑...有罪 n.嫌疑犯 adj.骗人的，不诚实的；可疑的，不可靠的
@@ -1521,4 +1521,78 @@ bend v.弯曲；歪曲 n.弯曲；弯道
 sanction
 
 punch n.一拳，一击；感染力，吸引力；打孔器 v.用拳击打；敲击；打孔
+
+# 2021.06.18
+
+consequently adv.因此，所以
+
+bound adj.必定的，注定的；受约束的；有义务的；装订的；准备前往...的 v.跳跃；弹回；向上跳跃；形成界限；限制；接壤 n.跳跃；弹回；边界；界线，界限 v.动词bing的过去式&过去分词
+
+gesture n.手势；姿态 v.打手势
+
+vertical adj.垂直的，纵向的
+
+substance n.物质，实质；重要性；主旨；药物
+
+vessel n.船；容器；血管
+
+substance n.物质，实质；重要性；主旨；药物
+
+clarify
+
+vice n.邪恶，堕落；缺点，弱点；恶习；虎钳 v.钳制，用老虎钳夹紧 prep.代替 adj.副的；代替的
+
+prominent adj.杰出的；显著的，突出的
+
+virtual
+
+prominent adj.杰出的；显著的，突出的
+
+punch n.一拳，一击；感染力，吸引力；打孔器 v.用拳头打；敲击；打孔
+
+rational adj.合理的；理性的，理智的；明事理的；神智健全的；有理数的
+
+trick
+
+quantity n.量，数量，大量，数额
+
+barrel n.桶；一桶；枪管；笔杆 v.飞驰；把...装入桶内
+
+parish 
+
+enclose
+
+frustration
+
+reckon
+shi'li'bu
+convey v.传达；运输
+
+visual adj.视力的，视觉的 n.视觉资料
+
+provoke vt.激怒，挑衅；鼓动，激励；引起；驱使
+
+constitution n.宪法；构成，组成；体质，体格
+
+pretend
+
+sharply adv.尖刻的，严厉的；急剧的；清楚的，明显地；敏锐的；时髦地
+
+tournament
+
+consensus
+
+radiation n.辐射，放射
+
+attendance n.出席，到场；出席人数，出席率
+
+intervention n.干预，介入，调解
+
+portrait n.肖像，画像；描绘；写照；竖排格式 adj.竖向的；纵向打印格式的
+
+correspondence
+
+unite
+
+confine v.把...局限于；把...限制于；监禁，禁闭；限制，阻止；限制，使离不开 n.界限，边界；约束；限制
 
