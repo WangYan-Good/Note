@@ -108,7 +108,7 @@ Filtering，将正在算的颜色经过某种 Filtering（滤波或者滤镜）�
 
 z buffer（深度缓冲区）、 stencil buffer（模板缓冲区）、 frame buffer（帧缓冲区）和 color buffer（颜色缓冲区）。  
 
-2.4.1 GPU 内存架构  
+## 2.4.1 GPU 内存架构  
 
 从物理结构而言
 
@@ -117,3 +117,31 @@ z buffer（深度缓冲区）、 stencil buffer（模板缓冲区）、 frame bu
 从功能上而言  
 
 寄存器是有限存储容量的高速存储部件，用来暂存指令、数据和位址  
+
+## 2.4.2 Z Buffer 与 Z 值
+
+Z Buffer 又称为 depth buffer，即深度缓冲区，可见物体的Z值为[0,1]区间
+
+使用Z Buffer 来判断空间点的遮挡关系
+
+Z值并非真正的笛卡尔空间坐标系中的欧几里德距离( Euclidean distance )，而是一种顶点到视点距离的相对度量。
+
+Z Buffer中存放的z值不一定是线性变化的。在正投影中的同一图元相邻像素的Z值是线性关系的，但在透视投影中却不是的。透视投影中这种关系是非线性的，而且非线性的程度随着空间点到视点的距离增加而越发明显。
+
+Z精度值决定了物体之间的相互遮挡关系
+
+两个相距很近的物体将会出现随机遮挡的现象，这种现象称为 flimmering 或 Z-fighting
+
+## 2.4.3 Stencil Buffer
+
+Stencil buffer:模板缓冲区
+
+它是一个额外的buffer，通常附加到 z buffer 中。
+
+2.4.4 Frame Buffer
+
+帧缓冲器，用于存放显示输出的数据，这个buffer中的数据一般是像素颜色值。
+
+## 2.5 本章小节
+
+图形绘制管线是GPU编程的基础
