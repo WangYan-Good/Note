@@ -1596,3 +1596,29 @@ unite
 
 confine v.把...局限于；把...限制于；监禁，禁闭；限制，阻止；限制，使离不开 n.界限，边界；约束；限制
 
+# 2021.06.19
+
+consequently adv.因此，所以
+
+cotton n.棉，棉布，棉纱，棉织物 v.欢迎；娇宠；讨好；明白，领悟 adj.棉的；棉制的
+
+ridiculous adj.愚蠢的，荒谬的，荒唐的
+
+enclose v.围绕，包围；把...放入信封
+
+sin
+
+clinic n.诊所，门诊部，科室
+
+induce vt.诱使，引诱；引起，导致；催生
+
+adventure
+
+invention n.发明，创造，虚构，编造
+
+substance n.物质，实质；重要性；主旨；药物
+
+designate v.指定，选派；标明，指明 adj.新指定的，新任命的
+
+emission n.排放，散发，射出；排放物，散发物
+
