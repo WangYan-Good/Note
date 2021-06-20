@@ -118,6 +118,8 @@ z buffer（深度缓冲区）、 stencil buffer（模板缓冲区）、 frame bu
 
 寄存器是有限存储容量的高速存储部件，用来暂存指令、数据和位址  
 
+![image-20210620210725988](C:\Users\98763\AppData\Roaming\Typora\typora-user-images\image-20210620210725988.png)
+
 ## 2.4.2 Z Buffer 与 Z 值
 
 Z Buffer 又称为 depth buffer，即深度缓冲区，可见物体的Z值为[0,1]区间
