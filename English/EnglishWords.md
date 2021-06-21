@@ -1669,7 +1669,7 @@ injection n.注射，打针；投入
 stack n.堆，叠；大量；烟囱，排气管；藏书书架，双面大书架 v.堆积；成叠放在；堆成一排
 
 democratic adj.民主的，民主政体的，民主制度的，民主权利地
-
+t
 discrimination n.歧视；辨别力，鉴赏力；识别，区别
 
 conscious
@@ -1677,4 +1677,58 @@ conscious
 promotion n.提升；提拔；推广；促销，宣传
 
 depress v.使...沮丧；降低
+
+# 2021.06.21
+
+ceiling n.天花板，上限，顶棚，最高限度
+
+interval n.间隔；中场休息
+
+monument n.纪念碑；历史遗迹
+
+spectrum n.光谱，声谱，频道；范围，幅度；系列，层次
+
+provoke
+
+spite n.恶意，怨恨；尽管 v.刁难，存心伤害，故意使烦恼，存心使苦恼
+
+discrimination n.歧视；辨别力，鉴赏力；识别，区别
+
+wander v.游荡；漫步；闲逛；偏离正道，迷路；蜿蜒；走神，开小差 n.游荡；闲逛；漫步
+
+projection n.投影，投射，预测，放映
+
+diagram n.图解，图表 v.绘制示意图；用图表说明
+
+mount v.登上；骑上等；增加，增长；上升；安装；镶嵌；裱贴；开展；举行 n.供乘骑的东西；底座，座驾；装帧，框；扇托
+
+greet v.迎接，欢迎，和（某人）打招呼，对...作出反应
+
+firmly adv.坚定的，坚固的
+
+rhythm n.节奏，韵律；规律性变化
+
+specify v.具体说明；具体指定；详细说明
+
+fiber n.纤维素，纤维制品
+
+offense
+
+expenditure n.支出，使用，消耗
+
+injection
+
+render
+
+clinic n.诊所，门诊部，科室
+
+dimension n.尺寸；容积；维度；方面 v.标尺寸；形成...尺寸
+
+rival n.竞争对手，敌手；可与之相比的人 v.与...竞争；与...匹敌，比得上 adj.竞争的；对抗的，对立的
+
+laboratory n.实验楼，实验大楼
+
+interprest v.诠释，说明；理解，领会；演绎；口译
+
+planet n.行星，地球
 
