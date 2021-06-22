@@ -1732,3 +1732,37 @@ interprest v.诠释，说明；理解，领会；演绎；口译
 
 planet n.行星，地球
 
+# 2021.06.22
+
+entrepreneur n.企业家；承包人；主办者
+
+dimension n.尺寸；容积；维度；方面 v.标尺寸；形成...尺寸
+
+discharge v.允许离开；开除，解雇；排出，放出；开枪，开炮 n.准许离开；免职；排放
+
+projection n.投影，投射，预测，放映
+
+aqueeze v.紧握，挤压；向...勒索；削减 n.压榨，榨出的液体，在狭小的空间里，经济拮据
+
+auction n.拍卖 v.拍卖
+
+hesitate v.犹豫，迟疑，踌躇
+
+monument n.纪念碑；历史遗迹
+
+assert v.明确肯定，断言；主张，坚持；坚持自己的主张
+
+diagram n.图解，图表 v.绘制示意图；用图表说明
+
+testify v.作证；证实；证明
+
+lane n.车道，小巷，甬道，胡同
+
+fantastic adj.奇异的；空想的；异想天开的；极好的；了不起的；很大的；大的难以置信的
+
+controversial adj.引起争论的，有争议的
+
+cloth n.布料，织物，桌布，布
+
+rival n.竞争对手，敌手，可与之相比的人 v.与...竞争；与...匹敌，比得上 adj.竞争的；对抗的，对立的
+
