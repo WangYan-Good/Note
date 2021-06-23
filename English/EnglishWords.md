@@ -1766,3 +1766,75 @@ cloth n.布料，织物，桌布，布
 
 rival n.竞争对手，敌手，可与之相比的人 v.与...竞争；与...匹敌，比得上 adj.竞争的；对抗的，对立的
 
+# 2021.06.23
+
+availability n.有效，可得到的东西，当选可能性；可选性；有效性；实用性
+
+coal n.煤，煤炭，木炭，烧红的煤 v.上煤，烧成炭
+
+spite n.恶意，怨恨；尽管 v.刁难，存心伤害，故意使烦恼，存心使苦恼
+
+wipe v.擦拭，消除，拭去 n.擦拭
+
+render
+
+costume
+
+leisure n.闲暇；空闲；休闲 adj.空闲的，业余的
+
+mild
+
+bush n.灌木，灌木状的东西 v.加衬套于，丛生，形成灌木林，用灌木围住
+
+tube
+
+testify v.作证；证实；证明
+
+trader n.商人；股票交易人
+
+projection n.投影，投射，预测，放映
+
+revolutionary adj.革命的；革命性的；突破性的；发生重大变革的 n.革命者；革命家
+
+admission n.准许加入，许可；入场费，入会费；入场券；承认，供人
+
+monument n.纪念碑；历史遗迹
+
+transmission n.传输，传送；播送，播送的内容；传动装置
+
+discharge
+
+snap
+
+assert v.明确肯定，断言；主张，坚持；坚持自己的主张
+
+controversial adj.引起争议的，有争议的
+
+discrimination
+
+deck
+
+fraction n.一部分，小部分；碎片；些微，一点儿；分数；小数
+
+tender
+
+readily adv.乐意地，欣然地；轻松地，容易地
+
+tobacco n.烟草，烟叶
+
+dimension
+
+interpreet v.诠释，说明；理解，领会；演绎；口译
+
+treaty 
+
+companion n.同伴；伴侣；同行者
+
+diminish v.减少，减弱，降低；贬低，贬损；轻视
+
+subsequent adj.随后的，后来的
+
+obstacle n.障碍，绊脚石
+
+dealer n.交易商，贸易商；毒品贩子
+
