@@ -278,3 +278,11 @@
   iostream 族支持程序与终端之间的I / O
   fstream 族使用相同的接口程序和文件之间的I / O
   C++ 库还提供了 sstream 族，他们使用相同的接口提供程序和 string 对象之间的 I / O
+
+  读物 string 对象中的格式化信息或将格式化信息写入 string 对象中被称为内核格式化
+  头文件 sstream  定义了一个从 ostream 类派生而来的 ostringstream 类
+  ostringstream 类有一个名为 str() 的成员函数，该函数返回一个被初始化为缓冲区内容的字符串对象，例如：
+  string mesg = outstr.str();
+
+  istringstream 类允许使用 istream 方法族读取 isstringstream 对象中的数据， istringstream 对象可以使用 string 对象进行初始化
+  istringstream 和 ostringstream 类使得能够使用 istream 和 ostream 类的方法来管理存储字符串中的字符数据
