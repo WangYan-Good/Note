@@ -1870,5 +1870,41 @@ portray v.描绘，描写，描画，将...描写成
 
 utility n.公共设施，公共事业；效用；实用 adj.多效用的，多功能的
 
+# 2021.06.25
 
+projection n.投影，投射，预测，放映
+
+consumption n.消费，消耗；食用；引用；肺痨
+
+comprise v.由...组成；包含
+
+discharge
+
+embrace v.欣然接受；拥抱；包含 n.拥抱
+
+tail
+
+readily
+
+hip n.髋；臀部；野蔷薇果 adj.时尚的，赶时髦的
+
+conversion n.转换；换算；转化，转变；皈依
+
+valley n.流域，山谷，峡谷，谷地
+
+indicator n.指示器，标志，指针，迹象
+
+duration n.持续时间，期间
+
+controversial adj.引起争议的，有争议的
+
+bias n.偏见，偏向，偏心，偏爱 v.使有偏见，使偏心，使偏向，影响以致产生偏差 adv.偏 adj.斜的，偏动的
+
+squeeze v.紧握，挤压；向...勒索；消减 n.压榨；榨出的液体，在狭小的空间里，经济拮据
+
+treaty n.条约，协定
+
+corn n.玉米，鸡眼；谷物 v.腌；使成颗粒
+
+bush n.灌木，灌木状的东西 v.加衬套于，丛生，形成灌木林，用灌木围住
 
