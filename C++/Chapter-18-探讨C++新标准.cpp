@@ -167,3 +167,105 @@
   如果想要禁止派生类覆盖特定的虚方法，可在参数列表后面加上 final
   说明符 override 和 final 并非关键字，而是具有特殊含义的标识符
 
+18.4 Lambda 函数
+  1. 比较函数指针、函数符和 Lambda 函数
+    假设: 生成一个随机数列表，判断多少数可以被 3 整除，多少个整数可被 13 整除
+    (1) 使用 vector<int> 存储数字，并使用 STL 算法 generate() 在其中填充随机数
+      #include <vector>
+      #include <algorithm>
+      #include <cmath>
+      ...
+      std::vector<int> numbers(1000);
+      std::generate( vector.begin(), vector.end(), std::rand );
+
+      也可以通过使用算法 count_if(), 例如:
+      bool f3( int x ) { return x % 3 == 0; }
+      int count3 = std::count_if ( numbers.begin(), numbers.end(), f3 );
+    (2) 函数符
+      class f_mod
+      {
+      private:
+        int dv;
+      public:
+        f_mod( int d = 1 ):dv(d) {}
+        bool operator() ( int x ) { return x % dv == 0; }
+      };
+
+      f_mod obj( 3 );
+      count3 = std::count_if( numbers.begin(), numbers.end(), f_mod(3) );
+
+    (3) 最后来看看 lambda 的情况
+      名称 lambda 来自 lambda calculus, 一种定义和应用函数的数学系统，该系统能够使用匿名函数
+      在 C++ 11 中，对于接受函数指针或函数符的函数，可使用匿名函数定义( lambda )作为其参数，与前面对应的 f3() 对应的 lambda 如下:
+      [] ( int x ) { return x % 3 == 0; }
+      与之前的差别有两个:
+        (1) 使用 [] 替代了函数名
+        (2) 没有声明返回类型，返回类型相当于使用 decltyp 根据返回值推断得到的， 如果 lambda 不包含返回语句，推断出的返回类型将为 void
+      也就是说，使用2整个 lambda 表达式替换函数指针或函数符构造函数
+      仅当 lambda 表达式完全由一条返回语句组成时，自动类型推断才管用；否则需要使用新增的返回类型后置语法:
+      [] (double x) -> double { int y = x; return x = y;} // return type is double
+
+  2. 为何使用 lambda
+    lambda 可访问作用域内的任何动态变量：要捕获要使用的变量，可将其名称放在中括号内。
+    如果只指定了变量名，如 [z] , 将按值访问变量；如果名称前加上 &， 如 [ &count ], 将按引用访问变量。
+    [&] 能够按引用访问所有的动态变量，而 [=] 能够按值访问所有动态变量，还可以混合使用这两种形式
+
+  在 C++ 中引入 lambda 的主要目的是，能够将类似于函数的表达式用作接受函数指针或函数符的函数参数。
+
+18.5 包装器
+  C++ 除了提供了 bind1st 和 bind2nd, 还提供了其他包装器
+  包括模板 bind , mem_fn 和 reference_wrapper 以及包装器 function
+  模板 bind 可替代 bind1st 和 bind2nd, 但更灵活
+  模板 mem_fn 能够将成员函数作为常规函数进行传递
+  模板 reference_wrapper 能够创建行为像引用但可被复制的对象
+  包装器 function 能够以统一的方式处理多种类似于函数的形式
+
+  1. 包装器 function 及模板的低效性
+
+  2. 修复问题
+    包装器 function 能够使程序员重写程序，使得调用特征标 ( call signature ) 相同的模板只生成一个函数实例
+    模板 function 是在头文件 functional 中声明的，它从特征标的角度定义了一个对象；可用于包装调用特征标相同的函数指针、函数对象或 lambda 表达式。
+
+  3. 其他方式
+
+18.6 可变参数模板
+  可变参数模板 ( variadic template ) 让您能够创建 可接受可变数量的的参数 的模板函数和模板类
+  要创建可变参数模板，需要理解几个要点:
+    模板参数包 ( parameter pack )
+    函数参数包
+    展开 ( unpack ) 参数包
+    递归
+
+  1. 模板和函数参数包
+    C++ 提供了一个用省略号表示的元运算符 ( meta-operator ), 让您能够表示模板参数包的标识符，模板参数包基本上是一个类型列表
+    同样，它还可以声明表示函数参数包的标识符，而函数参数包基本上是一个值列表
+    template < typename... Args >
+    void show_list1 ( Args... args )
+    {
+      ...
+    }
+
+  2. 展开函数包
+    函数如何访问包的内容，索引功能在这里不适用，可将省略号放在函数包名的右边，将参数包展开
+
+  3. 在可变参数模板函数中使用递归
+    将函数参数包展开，对列表中的第一项进行处理，再将余下的内容传递给递归调用，以此类推，直到列表为空
+    template < typename T, typename... Args >
+    void show_list3 ( T value, Args... args );
+
+18.7 C++ 11 新增的其他功能
+  1. 并行编程
+    为解决并行性问题，C++ 定义了一个支持线程化执行的内存模型，添加了关键字 thread_local, 提供了相关的库支持。
+    thread_local 将变量声明为静态存储，其持续性与特定线程相关：即定义这种变量的线程过期时，变量也将过期
+    库支持由原子操作 ( atomic operation )  库和线程支持库组成，其中原子操作库提供了头文件 atomic, 而线程支持库提供了头文件 thread, mutex, condition_variable 和 future
+
+  2. 新增的库
+    头文件 random 支持可扩展随机数库
+    头文件 chrono 提供了处理时间间隔的途径
+    头文件 tuple 支持模板 tuple. tuple 使广义的 pair 对象
+    头文件 ratio 支持编译阶段有理数算术库
+    头文件 regex 支持正则表达式库
+
+  3. 低级编程
+
+
