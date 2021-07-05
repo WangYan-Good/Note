@@ -267,5 +267,36 @@
     头文件 regex 支持正则表达式库
 
   3. 低级编程
+    低级编程指的是抽象程度，意味着接近计算机硬件和机器语言
+    放松了 POD ( Plain Old Data ) 的要求
+    允许共用体的成员有构造函数和析构函数
+    C++ 解决了内存对齐问题，要控制对齐方式，可使用说明符 alignas.
+    constexpr 机制让编译器能够在编译阶段计算结果为常量的表达式，让 const 变量可存储在只读内存中
 
+  4. 杂项
+    C++ 11 继承了自 C99 引入的依赖于实现的扩展整型
+    C++ 11 提供了一种创建用户自定义字面量的机制：字面量运算符。
+    C++ 提供了调试工具 assert , 它在运行阶段对断言进行检查，如果为 true , 则显示一条消息，否则调用 abort()
+    C++ 11 新增了关键字 static_assert , 可用于在编译阶段对断言进行调试
+    C++ 11 加强了对元编程 ( metaprogramming ) 的支持
 
+18.8 语言变化
+  ANSI - ISO / ANSI - ISO / IEC JTC1 / SC22 / WG21
+  ISO 是国际标准组织
+  IEC 是国际电子技术委员会
+  JEC1 是 ISO 和 IEC 组建的联合技术委员会1
+  SC22 是 JCT1 下属的编程语言委员会
+  WG21 是 SC22 下属的 C++ 工作小组
+
+  STL 成为了第一个 ANSI / ISO 标准的候选内容，其设计影响新标准的其他方面
+  Boost项目
+  TR1
+  使用 Boost，例如， Conversion 库中的 lexical_cast 能够在数值和字符串之间进行简单转换
+  float weight;
+  string wt = boost::lexical_cast<string> ( weight );
+  还可以使用 lexical_cast 将字符串转换为数值
+
+18.9 接下来的任务
+  OOP
+  用例分析和 CRC 卡
+  统一建模语言 UML
