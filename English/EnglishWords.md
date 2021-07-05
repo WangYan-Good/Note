@@ -529,7 +529,7 @@ repertoire n.可表演项目，全部才能
 conference  n.会议
 
 tire    v.疲劳，厌倦，疲倦，筋疲力竭 n.轮胎，车胎，女用头饰
-
+shi'li'bu
 dramatic    adj.急剧的；激动人心的；戏剧性的
 
 suspect v.怀疑，不信任；猜想；怀疑...有罪 n.嫌疑犯 adj.骗人的，不诚实的；可疑的，不可靠的
@@ -1242,4 +1242,1089 @@ deem v.认为，视为，相信
 oblige v.强迫，迫使；帮忙，效劳；使感激；使成为必要 phrase.觉得有必要做；不得不做
 
 thereby adv.因此；由此；从而
+
+# 2021.06.13
+
+wise adj.充满智慧的，明智的，英明的，明察善断的 n.（Wise）怀斯
+
+jail n.监狱，监禁，牢 v.监禁，关入监狱，把...下牢
+
+jam n.果酱，堵塞，拥挤，卡住 v.使劲挤，不能动弹，塞入，塞进
+
+captain n.船长；机长；列车长；首领；陆军上尉；海军上校 v.担任...的队长；率领，指挥
+
+composition n.成分，构成；组合方式；作曲；作文；小论文
+
+removal n.去除，消除，清除，除去
+
+renew v.更换，更新，重新开始，中止后继续
+
+proposition n.提议，建议；观点，主张；欲做的事，待处理的问题；任务 v.向...求欢；向...提议
+
+commodity n.商品；有用的东西；有使用价值的事物
+
+decorate v.装饰，装修
+
+disability n.伤残，残障；缺陷；无能力，无力
+
+briefly adv.简要地，简短地，短暂地，暂时地
+
+missile n.导弹，发射物，投掷物
+
+intensity n.强烈，剧烈，紧张；强度，烈度；色饱和度
+
+junior adj.年少的；年轻人的；三年级的；资历较浅的；职位较低的 n.三年级学生；职位较低者；年少的；晚辈
+
+scenario n.方案；设想；可能发生的事，可能出现的情况，设想的场景；剧情梗概
+
+depart v.离开；动身
+
+precious adj.宝贵的，珍贵的
+
+resistance n.反对，抵抗；阻力；免疫力；电阻
+
+sketch n.草图，略图，素描；简述，概要；小品 v.为...画素描；简述
+
+deem v.认为；视为；相信
+
+modest adj.谦虚的，谦逊的；适度的，适中的；朴素的；不太大的，不显著的，较小的
+
+wound n.伤口；损害；创伤，痛苦 v.使受伤，伤害；使受创伤，损害
+
+# 2021. 06.14
+
+molecule n.分子
+
+tin n.锡，罐头，罐头盒，白铁桶 adj.锡制的，马口铁制的，蹩脚的，假冒的 v.镀锡，做成罐头食品
+
+clause n.子句，从句，分句，条款
+
+wound n.伤口；损害；创伤，痛苦 v.使受伤，伤害；使受创伤，损害
+
+span n.一段时间；全长，距离 v.横跨，跨越；持续一段时间
+
+missile n.导弹，发射物，投掷物
+
+physician n.医师，内科医生
+
+jail n.监禁，监狱，牢 v.监禁，关入监狱，把...下牢
+
+chamber n.议会，议院；房间，室
+
+alliance n.联盟，结盟团体
+
+junior adj.年少的；年轻人的；三年级的；资历较浅的；职位较低的 n.三年级学生；职位较低者；年少者；晚辈
+
+captain n.船长；机长；列车长；首领；陆军上尉；海军上校 v.担任...的队长；率领，指挥
+
+motor n.汽车，马达，发动机 adj.有引擎的，由发动机推动的，机动车的，汽车的 v.乘车旅行，驾车旅行
+
+roughly adv.大约，大致，差不多，粗暴的
+
+resistance n.反对，抵抗；阻力；免疫力；电阻
+
+diary n.日记，记事簿，日记簿
+
+residence n.居住，住所，住房，定居
+
+attribute v.把...归因于；把...归咎于；认为...属于 n.属性，特性；品质；标志；象征；属性；定语
+
+ethnic adj.民族的，种族的，具有民族特色的，异国风味的 n.少数民族的人
+
+counsel n.劝告，忠告，建议；法律顾问；律师 v.提供专业咨询；建议，劝告
+
+mud n.泥浆，淤泥
+
+composition n.成分，构成；组合方式；作曲；作文；小论文
+
+emission n.排放，散发，射出；排放物，散发物
+
+spiritual adj.精神的，心灵的，宗教的 n.灵歌
+
+sponsor n.赞助者，赞助商；发起者 v.发起；赞助
+
+bang v.猛敲；砰然重击；猛摔；砰地关上；砰砰作响 n.砰，啪；猛击，猛撞；刘海 adv.正好，完全地 int.砰
+
+# 2021.06.15
+lane n.车道，小巷，甬道，胡同
+
+bat n.蝙蝠，球拍，球棒，球板 v.用球板击球， 拍打 abbr.教法学学士
+
+chamber n.议会，议院；房间，室
+
+civilization n.文明，文化
+
+neat adj.整洁的，整齐的，有序的，有条理的 n.牛，牛粪
+
+combat n.搏斗；打仗；战斗 v.防止；减轻；战斗，与...搏斗
+
+sanction n.制裁，批准，处罚，约束 v.许可，准许，准予，惩罚
+
+ethnic adj.民族的，种族的，具有民族特色的，异国风味的 n.少数民族的人
+
+consitution n.宪法；构成，组成；体质，体格
+
+clause n.子句，从句，分句，条款
+
+tremendous adj.巨大的；惊人的；极好的
+
+reckon v.认为，想，估计，计算
+
+consensus n.一致的意见，共识
+
+trick n.技巧，诡计，诀窍，把戏 v.欺骗，欺诈 adj.意在欺骗的，容易使人上当的，虚弱有毛病的
+
+wheat n.小麦，小麦籽
+
+protrait n.肖像，画像；描绘；写照；竖排格式 adj.竖向的；纵向打印格式的
+
+leak v.漏水，透露，使泄露，传开 n.泄露，渗漏，漏洞，裂缝
+
+correspondence n.来往信件；通信联系；相关，相似
+
+practically adv.几乎，差不多，很接近，实事求是的
+
+stimulate v.刺激，激励；促使，引起；促进功能
+
+emission n.排放，散发，射出；排放物，散发物
+
+sponsor n.赞助者，赞助商；发起者 v.发起；赞助
+
+# 2021.06.16
+
+clause n.子句，从句，分句，条款
+
+colony n.殖民地；聚居地
+
+emission n.排放，散发，射出；排放物，散发物
+
+trick n.技巧，诡计，诀窍，把戏 v.欺骗，欺诈 adj.意在欺骗的，容易使人上当的，虚弱有毛病的
+
+reckon v.认为，想，估计，计算
+
+charm n.魔力；魅力，吸引力；护身符；小饰物 v.吸引，使着迷
+
+clarify v.澄清，阐明，使...明晰
+
+sanction n.制裁，批准，处罚，约束 v.许可，准许，准予，惩罚
+
+pretend v.假装，佯装，自称，模拟 adj.假装的，想象的
+
+practically adv.几乎，差不多，很接近，实事求是的
+
+stimulate v.刺激，激励；促使，引起；促进功能
+
+lifetime n.一生，终生；存在期，使用期 adj.一生的；终身的
+
+bat n.蝙蝠，球拍，球棒，球板 v.用球板击球，拍打 abbr.教法学学士
+
+investigator n.调查员，侦查员
+
+lecture n.演讲，训斥 v.讲课，训斥
+
+mortality n.死亡率，生命的有限，死亡数量
+
+proposition n.提议，建议；观点，主张；欲做的事，待处理的问题；任务 v.向...求欢；向...提议
+
+parish n.教区，堂区，乡村行政小区，教区居民
+
+lane n.车道，小巷，甬道，胡同
+
+tournament n.锦标赛，联赛，骑马比武
+
+favorable adj.顺利的，良好的，有望的，赞成的，偏袒的，有利的
+
+chamber n.议会，议院；房间，室
+
+unite v.联合，团结，统一
+
+exploration n.探险，踏勘，勘测；研究
+
+# 2021.06.17
+
+neat adj.整洁的，整齐的，有序的，有条理的 n.牛，牛类
+
+communist n.共产主义者，共产主义的支持者，共产党党员 adj.共产主义的，共产党的
+
+trick n.技巧，诡计，诀窍，把戏 v.欺骗，欺诈 adj.意在欺骗的，容易使人上当的，虚弱有毛病的
+
+tournament n.锦标赛，联赛，骑马比武
+
+bat
+
+brick n.砖，砖块，积木，可靠的朋友 v.用砖砌，用砖围砌，用砖铺筑 adj.用砖砌的，砖似的
+
+explicit
+
+deficit n.赤字，逆差，亏损，不足额
+
+favorable adj.顺利的，良好的，有望的，赞成的，偏袒的，有利的
+
+unite v.联合，团结，统一
+
+parish n.教区，堂区，乡村行政小区，教区居民
+
+dare
+
+participation n.参加，参与
+
+extraordinary adj.意想不到的，不平常的；非凡的；特派的；临时的
+
+preliminary adj.预备的；初步的 n.准备工作；初步行动
+
+lane n.车道，小巷，甬道，胡同
+
+substitute v.用...代替，代以 n.代替者，代替物
+
+chamber
+
+occupation n.职业；消遣，日常活动；占领，占用
+
+captain
+
+span
+
+portrait n.肖像，画像；描绘；写照；竖排格式 adj.竖向的；纵向打印格式的
+
+continuous adj.连续的，继续的，连绵不断的
+
+emission n.排放，散发，射出；排放物，散发物
+
+virtual adj.虚拟的，模拟的；实际上的，实质上的
+
+virtue n.美德，优点；善行
+
+celebrity n.名人，名流，著名，名望
+
+stimulate v.刺激，激励；促使，引起；促进功能
+
+attendance n.出席，到场；出席人数，出席率
+
+superior adj.比...好的，比...强的；更高的；上级的；有优越感的；高傲的 n.上级，长官，级别更高的人；占优势者；优质物品
+
+attendance n.出席，到场；出席人数，出席率
+
+elegant adj.优雅的；精美的；俊美的；简练的，简洁的
+
+pretend v.假装，佯装，自称，模拟 adj.假装的，想象的
+
+superior
+
+reckon v.认为，想，估计，计算
+
+cattle
+
+bare adj.赤裸的；光秃秃的；勉强的，刚刚够的；仅有的
+
+bend v.弯曲；歪曲 n.弯曲；弯道
+
+sanction
+
+punch n.一拳，一击；感染力，吸引力；打孔器 v.用拳击打；敲击；打孔
+
+# 2021.06.18
+
+consequently adv.因此，所以
+
+bound adj.必定的，注定的；受约束的；有义务的；装订的；准备前往...的 v.跳跃；弹回；向上跳跃；形成界限；限制；接壤 n.跳跃；弹回；边界；界线，界限 v.动词bing的过去式&过去分词
+
+gesture n.手势；姿态 v.打手势
+
+vertical adj.垂直的，纵向的
+
+substance n.物质，实质；重要性；主旨；药物
+
+vessel n.船；容器；血管
+
+substance n.物质，实质；重要性；主旨；药物
+
+clarify
+
+vice n.邪恶，堕落；缺点，弱点；恶习；虎钳 v.钳制，用老虎钳夹紧 prep.代替 adj.副的；代替的
+
+prominent adj.杰出的；显著的，突出的
+
+virtual
+
+prominent adj.杰出的；显著的，突出的
+
+punch n.一拳，一击；感染力，吸引力；打孔器 v.用拳头打；敲击；打孔
+
+rational adj.合理的；理性的，理智的；明事理的；神智健全的；有理数的
+
+trick
+
+quantity n.量，数量，大量，数额
+
+barrel n.桶；一桶；枪管；笔杆 v.飞驰；把...装入桶内
+
+parish 
+
+enclose
+
+frustration
+
+reckon
+shi'li'bu
+convey v.传达；运输
+
+visual adj.视力的，视觉的 n.视觉资料
+
+provoke vt.激怒，挑衅；鼓动，激励；引起；驱使
+
+constitution n.宪法；构成，组成；体质，体格
+
+pretend
+
+sharply adv.尖刻的，严厉的；急剧的；清楚的，明显地；敏锐的；时髦地
+
+tournament
+
+consensus
+
+radiation n.辐射，放射
+
+attendance n.出席，到场；出席人数，出席率
+
+intervention n.干预，介入，调解
+
+portrait n.肖像，画像；描绘；写照；竖排格式 adj.竖向的；纵向打印格式的
+
+correspondence
+
+unite
+
+confine v.把...局限于；把...限制于；监禁，禁闭；限制，阻止；限制，使离不开 n.界限，边界；约束；限制
+
+# 2021.06.19
+
+consequently adv.因此，所以
+
+cotton n.棉，棉布，棉纱，棉织物 v.欢迎；娇宠；讨好；明白，领悟 adj.棉的；棉制的
+
+ridiculous adj.愚蠢的，荒谬的，荒唐的
+
+enclose v.围绕，包围；把...放入信封
+
+sin
+
+clinic n.诊所，门诊部，科室
+
+induce vt.诱使，引诱；引起，导致；催生
+
+adventure
+
+invention n.发明，创造，虚构，编造
+
+substance n.物质，实质；重要性；主旨；药物
+
+designate v.指定，选派；标明，指明 adj.新指定的，新任命的
+
+emission n.排放，散发，射出；排放物，散发物
+
+# 2021.06.20
+
+aggressive adj.侵略性的；好斗的；有进取心的；有闯劲的
+
+tender adj.嫩的，柔软的；纤弱的，易碎的；和善的，温柔的，慈爱的；温和的；年轻的；多愁善感的；棘手的，微妙的 v.投标；提供；提出；交付 n.投标；提出，提议；交付；照料人；煤水车；交通船
+
+projection n.投影，投射，预测，放映
+
+interpret v.诠释，说明；理解，领会；演绎；口译
+
+regret v.懊悔，感到遗憾，惋惜，有礼貌地或正式地表示抱歉、痛惜或悲伤 n.遗憾，懊悔，痛惜，失望
+
+induce
+
+clinic
+
+greet v.迎接，欢迎，和(某人)打招呼，对...作出反应
+
+experimental adj.实验性的，试验性的
+
+melt v.融化，软化 n.熔化，熔化物
+
+participation
+
+dawn n.黎明，曙光，拂晓，破晓 v.开始，变得明朗，开始清楚
+
+gross adj.总的，毛的；严重的，过分的，恶劣的；令人讨厌的，令人厌恶的；极胖而难看的 n.总额，总量；罗 adv.总共，全部 v.总收入为
+
+mess n.混乱；杂乱；脏乱 v.使不整洁；弄脏；弄乱；打扰，干预
+
+blend
+
+designate
+
+render v.致使，造成；使成为，使变得；给予，提供；提交，呈上；翻译；演奏；渲染；绘制；秘密偷渡 n.底灰，底泥；交纳
+
+mild adj.温和的；和善的；不严厉地；和煦的
+
+assign v.分配，分派，指派；确定
+
+trainer n.教练员，教员，运动鞋，驯兽师
+
+injection n.注射，打针；投入
+
+stack n.堆，叠；大量；烟囱，排气管；藏书书架，双面大书架 v.堆积；成叠放在；堆成一排
+
+democratic adj.民主的，民主政体的，民主制度的，民主权利地
+t
+discrimination n.歧视；辨别力，鉴赏力；识别，区别
+
+conscious
+
+promotion n.提升；提拔；推广；促销，宣传
+
+depress v.使...沮丧；降低
+
+# 2021.06.21
+
+ceiling n.天花板，上限，顶棚，最高限度
+
+interval n.间隔；中场休息
+
+monument n.纪念碑；历史遗迹
+
+spectrum n.光谱，声谱，频道；范围，幅度；系列，层次
+
+provoke
+
+spite n.恶意，怨恨；尽管 v.刁难，存心伤害，故意使烦恼，存心使苦恼
+
+discrimination n.歧视；辨别力，鉴赏力；识别，区别
+
+wander v.游荡；漫步；闲逛；偏离正道，迷路；蜿蜒；走神，开小差 n.游荡；闲逛；漫步
+
+projection n.投影，投射，预测，放映
+
+diagram n.图解，图表 v.绘制示意图；用图表说明
+
+mount v.登上；骑上等；增加，增长；上升；安装；镶嵌；裱贴；开展；举行 n.供乘骑的东西；底座，座驾；装帧，框；扇托
+
+greet v.迎接，欢迎，和（某人）打招呼，对...作出反应
+
+firmly adv.坚定的，坚固的
+
+rhythm n.节奏，韵律；规律性变化
+
+specify v.具体说明；具体指定；详细说明
+
+fiber n.纤维素，纤维制品
+
+offense
+
+expenditure n.支出，使用，消耗
+
+injection
+
+render
+
+clinic n.诊所，门诊部，科室
+
+dimension n.尺寸；容积；维度；方面 v.标尺寸；形成...尺寸
+
+rival n.竞争对手，敌手；可与之相比的人 v.与...竞争；与...匹敌，比得上 adj.竞争的；对抗的，对立的
+
+laboratory n.实验楼，实验大楼
+
+interprest v.诠释，说明；理解，领会；演绎；口译
+
+planet n.行星，地球
+
+# 2021.06.22
+
+entrepreneur n.企业家；承包人；主办者
+
+dimension n.尺寸；容积；维度；方面 v.标尺寸；形成...尺寸
+
+discharge v.允许离开；开除，解雇；排出，放出；开枪，开炮 n.准许离开；免职；排放
+
+projection n.投影，投射，预测，放映
+
+aqueeze v.紧握，挤压；向...勒索；削减 n.压榨，榨出的液体，在狭小的空间里，经济拮据
+
+auction n.拍卖 v.拍卖
+
+hesitate v.犹豫，迟疑，踌躇
+
+monument n.纪念碑；历史遗迹
+
+assert v.明确肯定，断言；主张，坚持；坚持自己的主张
+
+diagram n.图解，图表 v.绘制示意图；用图表说明
+
+testify v.作证；证实；证明
+
+lane n.车道，小巷，甬道，胡同
+
+fantastic adj.奇异的；空想的；异想天开的；极好的；了不起的；很大的；大的难以置信的
+
+controversial adj.引起争论的，有争议的
+
+cloth n.布料，织物，桌布，布
+
+rival n.竞争对手，敌手，可与之相比的人 v.与...竞争；与...匹敌，比得上 adj.竞争的；对抗的，对立的
+
+# 2021.06.23
+
+availability n.有效，可得到的东西，当选可能性；可选性；有效性；实用性
+
+coal n.煤，煤炭，木炭，烧红的煤 v.上煤，烧成炭
+
+spite n.恶意，怨恨；尽管 v.刁难，存心伤害，故意使烦恼，存心使苦恼
+
+wipe v.擦拭，消除，拭去 n.擦拭
+
+render
+
+costume
+
+leisure n.闲暇；空闲；休闲 adj.空闲的，业余的
+
+mild
+
+bush n.灌木，灌木状的东西 v.加衬套于，丛生，形成灌木林，用灌木围住
+
+tube
+
+testify v.作证；证实；证明
+
+trader n.商人；股票交易人
+
+projection n.投影，投射，预测，放映
+
+revolutionary adj.革命的；革命性的；突破性的；发生重大变革的 n.革命者；革命家
+
+admission n.准许加入，许可；入场费，入会费；入场券；承认，供人
+
+monument n.纪念碑；历史遗迹
+
+transmission n.传输，传送；播送，播送的内容；传动装置
+
+discharge
+
+snap
+
+assert v.明确肯定，断言；主张，坚持；坚持自己的主张
+
+controversial adj.引起争议的，有争议的
+
+discrimination
+
+deck
+
+fraction n.一部分，小部分；碎片；些微，一点儿；分数；小数
+
+tender
+
+readily adv.乐意地，欣然地；轻松地，容易地
+
+tobacco n.烟草，烟叶
+
+dimension
+
+interpreet v.诠释，说明；理解，领会；演绎；口译
+
+treaty 
+
+companion n.同伴；伴侣；同行者
+
+diminish v.减少，减弱，降低；贬低，贬损；轻视
+
+subsequent adj.随后的，后来的
+
+obstacle n.障碍，绊脚石
+
+dealer n.交易商，贸易商；毒品贩子
+
+# 2021.06.24
+
+dump v.倾倒，抛售，抛弃，转存 n.垃圾场，转储，转存，废物堆
+
+duration n.持续时间，期间
+
+patch n.补丁；碎片；膏药；眼罩；色斑；斑点；一小块地 v.修补；打补丁；缝补；拼制；拼凑
+
+deck
+
+compound n.复合物；化合物；复合词；有围墙的房群，大院；用围墙围住的场地 adj.复合的；化合的；混合的；综合的；组合的 v.使复合；使化合；使混合；结合，组合；增加，加重
+
+leisure n.空暇；空闲；休闲 adj.空闲的，业余的
+
+comprise v.由...组成；包含
+
+boast v.自夸，自吹自擂，有 n.夸耀，夸口
+
+discharge
+
+companion n.同伴；伴侣；同行者
+
+fulfill v.做完，应验，满足
+
+probe v.盘问，追问；探查，探测 n.探究，详细调查；探针；探测器
+
+testify
+
+portray v.描绘，描写，描画，将...描写成
+
+utility n.公共设施，公共事业；效用；实用 adj.多效用的，多功能的
+
+# 2021.06.25
+
+projection n.投影，投射，预测，放映
+
+consumption n.消费，消耗；食用；引用；肺痨
+
+comprise v.由...组成；包含
+
+discharge
+
+embrace v.欣然接受；拥抱；包含 n.拥抱
+
+tail
+
+readily
+
+hip n.髋；臀部；野蔷薇果 adj.时尚的，赶时髦的
+
+conversion n.转换；换算；转化，转变；皈依
+
+valley n.流域，山谷，峡谷，谷地
+
+indicator n.指示器，标志，指针，迹象
+
+duration n.持续时间，期间
+
+controversial adj.引起争议的，有争议的
+
+bias n.偏见，偏向，偏心，偏爱 v.使有偏见，使偏心，使偏向，影响以致产生偏差 adv.偏 adj.斜的，偏动的
+
+squeeze v.紧握，挤压；向...勒索；消减 n.压榨；榨出的液体，在狭小的空间里，经济拮据
+
+treaty n.条约，协定
+
+corn n.玉米，鸡眼；谷物 v.腌；使成颗粒
+
+bush n.灌木，灌木状的东西 v.加衬套于，丛生，形成灌木林，用灌木围住
+
+# 2021.06.26
+
+seminar n.研讨会，研讨课，培训会
+
+rope n.绳索，粗绳，线缆，圈绳；诀窍，窍门 v.用绳子捆，用绳子系牢，捆紧，用套索抓捕
+
+spite n.恶意，怨恨；尽管 v.刁难，存心伤害，故意使烦恼，存心使苦恼
+
+utility n.公共设施，公共事业；效用；实用 adj.多效用的，多功能的
+
+treaty n.条约，协定
+
+naked adj.裸露的，不穿衣服的，无遮盖的
+
+realistic adj.实际的，实事求是的；明智的，恰如其分的；逼真的，栩栩如生的
+
+indicator n.指示器，标志，指针，迹象
+
+probe v.盘问，追问；探查，探测 n.探究，详细调查；探针；探测器
+
+companion n.同伴；伴侣；同行者
+
+thread n.线；螺纹；思路；衣服；线状物；玻璃纤维；路线 v.穿过，穿，纫，穿过
+
+comprise v.由...组成；包含
+
+rat n.老鼠，耗子，讨厌的人，卑鄙的小人 v.告发，告密；食言，背信弃义；违约 addr.火箭发射式反潜鱼雷
+
+inventory n.库存，财产清单，清单 v.开列清单
+
+temple n.庙宇，太阳穴，犹太教堂，圣殿
+
+shortage n.不足，缺少，短缺
+
+ingredient n.成分，原料；因素，要素
+
+curve n.曲线；弯曲 v.弯曲；沿曲线运动
+
+compound n.复合物；化合物；复合词；有围墙的房群，大院；用围墙围住的场地 adj.复合的；化合的；混合的；综合的；组合的 v.使复合；使化合；使混合；结合，组合；增加，加重
+
+mayor n.市长，镇长
+
+gut n.肠道，直觉，消化道，勇气 v.损毁内部，取出...的内脏 adj.以感情为基础的，非理性的，本能的
+
+exclusively adv.仅仅，专门的，特定的，排外的
+
+patch n.补丁；碎片；膏药；眼罩；色斑；斑点；一小块地 v.修补；打补丁；缝补；拼制；拼凑
+
+whisper v.耳语，小声说；私下说，秘密告诉；沙沙作响 n.耳语；私语；轻柔的声音；传言
+
+hip n.髋，臀部；野蔷薇果 adj.时尚的，赶时髦的
+
+discharge v.允许离开；开除，解雇；排出，放出；开枪，开炮 n.准许离开；免职；排放
+
+readily adv.乐意地，欣然地；轻松地，容易地
+
+palace n.宫殿，王宫，总统府，住在王宫里的人
+
+valley n.流域，山谷，峡谷，谷地
+
+pale adj.苍白的，暗淡的，弱的，浅色的 v.变得苍白 n.尖木桩，界限
+
+conversion n.转换；换算；转化，转变；皈依
+
+grasp v.抓住，紧握；领会 n.抓，握；把握；领会
+
+march v.行进，齐步走，前进，游行示威 n.进行曲，行军，行进，示威游行
+
+puzzle n.谜，疑问，难题，智力游戏，拼图 v.使困惑
+
+fulfill v.做完，达到，应验，满足
+
+wipe v.擦，消除，拭去 n.擦拭
+
+tender adj.嫩的，柔软的；纤弱的，易碎的；和善的，温柔的，慈爱的；温和的；年轻的；多愁善感的；棘手的，微妙的 v.投标；提供；提出；交付 n.投标；提出，提议；交付；照料人；煤水车；交通船
+
+sculpture n.雕像，雕塑品；雕刻术，雕塑术
+
+anticipate v.预期，预料；期待；先于...之前
+
+interact v.交流，交往，互动；相互作用，相互影响
+
+consent n.同意，许可 v.同意，允许
+
+boast v.自夸，自吹自擂，有 n.夸耀，夸口
+
+subsequent adj.随后的，后来的
+
+campus n.校园
+
+explode v.爆炸；爆发
+
+clinic n.诊所，门诊部，科室
+
+controversial adj.引起争议的，有争议的
+
+reliability n.可靠性
+
+relieve v.减轻，缓和；使解脱
+
+# 2021.06.27
+
+boast v.自夸，自吹自擂，有 n.夸耀，夸口
+
+incredibly adv.非常，及其，难以置信的，不可思议的
+
+passion n.激情，热情
+
+tune n.曲子，曲调 v.调整，调音，调谐，使协调
+
+naked adj.裸露的，不穿衣服的，无遮盖的
+
+fabric n.结构；织物
+
+sculpture n.雕像，雕塑品；雕刻术，雕塑术
+
+portfolio n.文件夹，职务，有价证券组合，公事包
+
+ingredient n.成分，原料；因素，要素
+
+faculty n.能力，才能；全体教职员；系，部，院
+
+carpet n.地毯，覆盖地面的一层厚东西 v.用地毯铺地板，把...厚厚地覆盖，厚厚地铺上，训斥
+
+inventory n.库存，财产清单，清单 v.开列清单
+
+discrimination n.歧视；辨别力，鉴赏力；识别，区别
+
+solar adj.太阳的，太阳能的；与...太阳有关的
+
+explode v.爆炸；爆发
+
+sole adj.唯一的，仅有的；独占的 n.脚底，鞋底
+
+jury n.陪审团，裁判委员会 adj.应急用的
+
+burst v.破裂，爆发；突发；爆炸 n.破裂，爆发；突发；爆炸
+
+discourse n.对话；话语；演讲；论文
+
+mixture n.混合，结合体，混合体，集合体
+
+keen adj.热衷的，热情的；渴望的；敏捷的；灵敏的；锋利的；强烈的 n.恸哭；挽歌 v.恸哭
+
+relieve v.减轻，缓和；使解脱
+
+harsh adj.令人不快的；严酷的，严厉的；刺眼的，刺耳的，过于强烈的
+
+admission n.准许加入，许可；入场费，入会费；入场券；承认，供认
+
+probe v.盘问，追问；探查，探测 n.探究，详细调查；探针；探测器
+
+fate n.命运，天意，命中注定的事，命运的安排
+
+whisper v.耳语，小声说；私下说，秘密告诉；沙沙作响 n.耳语；私语；轻柔的声音；传言
+
+rope n.绳索，粗绳，线缆，圈绳；诀窍，窍门 v.用绳子捆，用绳子系牢，捆紧，用套索抓捕
+
+tissue n.组织；纸巾；绵纸
+
+resume v.重新开始；继续；恢复；重返；重新得到；重新使用；取回，收回；接着说 n.简历；概述，概要
+
+tide n.潮汐，潮流，潮水，趋势 v.顺应潮水航行，像潮水般汹涌，克服，使随潮水漂流
+
+rough adj.粗糙的，不平滑的，高低不平的，不确切的 n.草稿，长草区，草图，暴徒 v.虐待，装防滑钉，粗暴地说，惹怒 adv.粗鲁地，粗野地
+
+# 2021.06.28
+
+revise v.修改，复习，改变，温习 n.校订，再校样
+
+roughly adv.大约，大致，差不多，粗暴地
+
+allege v.断言，宣称，声称，指控，提出
+
+dialog v.对话，用对话表达 n.问答，对白，对话体
+
+puzzle n.谜，疑问，难题，智力游戏，拼图 v.使困惑
+
+diagnosis n.诊断，判断
+
+tongue n.舌头，语言，方言，嘴巴 v.舔，榫接，嵌接
+
+pile n.一堆；大量；高大建筑；建筑群；电池组 v.堆积；拥，挤
+
+wipe v.擦，消除，拭去
+
+whisper v.耳语，小声说；私下说，秘密告诉；沙沙作响 n.耳语；私语；轻柔的声音；传言
+
+relieve v.减轻，缓和；使解脱
+
+pale adj.苍白的，暗淡的，弱的，浅色的 v.变得苍白 n.尖木桩，界限
+
+discourse n.对话；话语；演讲；论文
+
+spray n.水沫；喷雾；喷雾器；飞沫状物；小树枝；小花枝 v.喷洒；喷射，扫射；喷涂；飞溅
+
+dedicate v.献出；题献词；致力于
+
+distant adj.遥远的，远处的，久远的，不相似的
+
+portfolio n.文件夹，职务，有价证券组合，公事包
+
+ingredient n.成分，原料；因素，要素
+
+diverse adj.不同的，多种多样的
+
+neglect v.疏忽，忽视，疏于照看 n.疏忽，忽略
+
+strain v.扭伤，劳损；竭尽全力；拉紧 n.张力；拉紧；过度紧张；过高的要求或负担；扭伤；类型；系，品系，品种
+
+# 2021.07.03
+
+narrative n.叙述，讲故事，叙事技巧 adj.叙述的，故事体的，善于叙述的
+
+glance n.一瞥；扫视； v.一瞥；扫视
+
+pole n.杆子；地极；磁极
+
+extract v.取出，拔出；提取，提炼；榨取；摘录；设法得到；开方，求根 n.提取物；萃取物；精，汁；摘录；选段；引文
+
+surgery n.外科手术；外科；诊所
+
+frighten v.使惊吓，使惊恐
+
+incline v.使倾斜；使倾向于；有...趋势；点头 n.斜坡，斜面；斜度
+
+veteran n.老兵，老手，退伍军人，经验丰富的人 adj.老练的，资格老的，由老兵组织成的
+
+resume v.重新开始；继续；恢复；重返；重新得到；重新使用；取回；收回；接着说 n.简历；概述，概要
+
+entity n.独立存在物，实体
+
+wound n.伤口；损害；创伤，痛苦 v.使受伤，伤害；使受创伤，损害
+
+substance n.物质，实质；重要性；主旨；药物
+
+shore n.海岸，河岸，湖滨；区域，境内
+
+bush n.灌木，灌木状的东西 v.加衬套于，丛生，形成灌木林，用灌木围住
+
+radical adj.根本的，彻底的；全新的；激进的，极端的 n.激进分子；游离基，自由基
+
+inventory n.库存，财产清单，清单 v.开列清单
+
+reckon v.认为，想，估计，计算
+
+controversial adj.引起争论的，有争议的
+
+exhaust v.用尽，耗尽，使...筋疲力尽 n.尾气，废气
+
+grave n.坟墓，墓地，墓穴，死 adj.重要的，严重的，沉重的，极慢的 v.刻，对（船底）作清洗并涂上沥青等涂料，铭记 adv.庄重地；严肃地
+
+undermine v.逐渐削弱，使逐步减少效力，从根基处破坏，挖...的墙脚
+
+reinforce v.加强， 加固；强化
+
+corridor n.通道，过道，走廊
+
+stimulus n.刺激；促进因素
+
+exploit v.利用；开拓，开采；压榨；剥削 n.勋绩，功绩
+
+explosion n.爆炸，激增，突增，猛增
+
+sheer adj.纯粹的；完全的，十足的；垂直的，陡峭的；轻薄透明的 v.突然变向 n.突然转向；透明薄织物
+
+remarkable adj.不同寻常的；非凡的；引人注目的
+
+substantially adv.基本上，大体上，非常，大大地
+
+accessible adj.可到达的，可接近的，可进入的，可使用的
+
+notably adv.特别，非常，尤其，极大程度上
+
+cough v.咳嗽，咳出，突然发出刺耳的声音 n.咳嗽，咳嗽声，咳嗽病
+
+# 2021.07.04
+
+distress n.窘迫，痛苦，遇险，悲伤 v.使忧虑，使悲伤，使苦恼
+
+stain v.在...上留下污迹；玷污；染污；着色 n.污迹；污渍
+
+sheer adj.纯粹的；完全的，十足的；垂直的，陡峭的；轻薄透明的 v.突然变向 n.突然转向；透明薄织物
+
+exploit v.利用；开拓，开采；压榨；剥削 n.勋绩，功绩
+
+bow v.鞠躬；点头；低头，垂首；屈服，听从 n.弓；蝴蝶结；船头，艏
+
+transmission n.传输，传送；播送，播送的内容；传动装置
+
+notably adv.特别，非常，尤其，极大程度上
+
+cough v.咳嗽，咳出，突然发出刺耳的声音 n.咳嗽，咳嗽声，咳嗽病
+
+treaty n.条约，协议
+
+dimension n.尺寸；容积；维度；方面 v.标尺寸；形成...尺寸
+
+fulfill v.做完，达到，应验，满足
+
+substance n.物质，实质；重要性；主旨；药物
+
+assignment n.作业；任务
+
+mineral n.矿物；矿物质
+
+amendment n.修改，宪法修改案
+
+carve v.雕刻，切割
+
+elaborate adj.复杂的；详尽的；精致的 v.详细说明；精心制作
+
+fame n.声誉，名望
+
+liability n.责任，义务；不利因素；欠债，负债；可能性
+
+resign v.辞职；辞去
+
+strand n.股，缕；海滨，海滩；湖滨；部分 v.使滞留，使搁浅
+
+adolescent n.青少年 adj.青年期的
+
+enforcement n.实施，执行，强制
+
+cluster v.群聚；聚集 n.簇，团，束，串
+
+distinct adj.清晰的，明显的；截然不同的，有区别的；不同种类的；确实的，不容忽视的
+
+cheek n.脸颊，面颊，有...面颊的，面颊...的 v.对...粗鲁无礼地说
+
+pioneer n.先驱；创始人；倡导者 v.开创；倡导
+
+pit n.洞，坑，矿井，麻子，深渊，绝境，核，正厅后座 v.使...表面有斑点，在...上打洞，去掉...的果核，变得坑坑洼洼
+
+insight n.洞察力，洞悉；领悟；深刻见解
+
+# 2021.07.05
+
+resign v.辞职；辞去
+
+parish n.教区，堂区，乡村行政小区，教区居民
+
+compound n.复合物；化合物；复合词；有围墙的房群，大院；用围墙围住的场地 adj.复合的；化合的；混合的；综合的；组合的 v.使复合；使化合；使混合；结合，组合；增加，加重
+
+cure v.治疗，治愈 n.治疗，治愈；疗法；解决方法
+
+amendment n.修改，宪法修正案
+
+anticipate v.预期，预料；期待，先于...之前
+
+exploit v.利用；开拓，开采；压榨；剥削 n.勋绩，功绩
+
+utility n.公共设施，公共事业；效用；实用 adj.多效用的，多功能的
+
+patch n.补丁；碎片；膏药；眼罩；色斑；斑点；一小块地 v.修补；打补丁；缝补；拼制；拼凑
+
+spite n.恶意，怨恨；尽管 v.刁难，存心伤害，故意使烦恼，存心使苦恼
+
+hip n.髋；臀部；野蔷薇果 adj.时尚的，赶时髦的
+
+notably adv.特别，非常，尤其，极大程度上
+
+sketch n.草图，略图，素描；简述，概要；小品 v.为...画素描；简述
+
+projection n.投影，投射，预测，放映
+
+cough v.咳嗽，咳出，突然发出刺耳的声音 n.咳嗽，咳嗽声，咳嗽病
+
+sheer adj.纯粹的；完全的，十足的；垂直的，陡峭的；轻薄透明的 v.突然转向 n.突然转向；透明薄织物
+
+strand n.股、缕；海滨，海滩；湖滨；部分 v.使滞留，使搁浅
+
+mineral n.矿物；矿物质
+
+boast v.自夸，自吹自擂，有 n.夸耀，夸口
+
+distinct adj.清晰的，明显的；截然不同的，有区别的；不同种类的；确实的，不容忽视的
+
+cluster v.群聚；聚集 n.簇，团，束，串
+
+insight n.洞察力，洞悉；领悟；深刻见解
+
+tender adj.嫩的，柔软的；纤弱的，易碎的；和善的，温柔的，慈爱的；温和的；年轻的；多愁善感的；棘手的，微妙的 v.投标；提供；提出；交付 n.投标；提出，提议；交付；照料人；煤水车；交通船
+
+burst v.破裂，爆发；突发；爆炸 n.破裂，爆发；突发；爆炸
+
+liability n.责任，义务；不利因素；欠债，负债；可能性
+
+adolescent n.青少年 adj.青年期的
+
+advocate vt.提倡，拥护；鼓吹；为...辩护 n.(辩护)律师；提倡者，支持者
+
+subtle adj.不易察觉的；微妙的；机智的；狡猾的；巧妙的
+
+lamp n.灯，发热灯，射线照射器 v.重击，狂殴
+
+headquarter v.设总部；在...设总部；把...放在总部中 n.总部；指挥部；司令部
+
+barrier n.屏障，障碍，障碍物，关口 v.用栅栏围住
+
+essence n.本质，精髓，要素；香精
+
+slope n.斜坡，坡度，坡地，山坡 v.倾斜，有坡度，悄悄地走，潜行
+
+implementation n.执行，落实
+
+supplement v.补充，增补，增加 n.增补物，补充物，补给品；附录；补编；补遗；增刊；附加费
+
+trail v.跟踪，追踪，拖，磨蹭；落后；减弱 n.小径，路径，踪迹，足迹
+
+tribe n.部落，族，一伙，大群
+
+league n.联盟，社团；等级，级别，水平；里格
+
+regardless adv.不顾，不加理会 adj.不尊敬的，不留心的，不受注意的，毫无价值的
+
+leap v.跳跃，约过，猛冲 n.跳跃，剧增，急变 adj.闰年的
+
+possession n.拥有，具有；占有；属地；个人财产
 
