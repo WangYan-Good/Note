@@ -2382,3 +2382,85 @@ composer n.音乐创作者；作曲者；作曲家
 
 ethics n.道德标准，道德伦理，伦理标准，伦理学
 
+# 2021.07.07
+
+leap v.跳跃，跃过，猛冲 n.跳跃，剧增，急变 adj.闰年的
+
+flee v.迅速离开；逃避，逃跑
+
+transformation n.转变，民主改革
+
+subtle adj.不易觉察的；微妙的；机智的；狡猾的；巧妙的
+
+precede v.先于，在...前面
+
+strand n.股、缕；海滨，海滩；湖滨；部分 v.使滞留，使搁浅
+
+mortality n.死亡率，生命的有限，死亡数量
+
+immigrant n.移民，侨民
+
+ethics n.道德标准，道德伦理，伦理标准，伦理学
+
+prevail vi.流行，盛行；获胜；占优势，占上风；成功；奏效
+
+stem n.茎，干，梗；词干；血统 v.堵住；阻止；起源于，发生
+
+exploit v.利用；开拓，开采；压榨；剥削 n.勋绩，功绩
+
+drain v.耗尽；排出，排干；喝光 n.下水道，排水沟；外流
+
+lamp n.灯，发热灯，热线照射器 v.狂殴
+
+drill n.演习，电钻，练习，条播作物 v.钻孔，训练，练习，条播
+
+essence n.本质，精髓，要素；香精
+
+tribe n.部落，族，一伙，大群
+
+advocate vt.提倡，拥护；鼓吹；为...辩护 n.律师；提倡者，支持者
+
+pile n.一堆；大量；高大建筑；建筑群；电池组 v.堆积；拥，挤
+
+adolescent n.青少年 adj.青年期的
+
+apray n.水沫;喷雾；喷雾器；飞沫状物；小树枝；小花枝 v.喷洒；喷射，扫射；喷涂；飞溅
+
+par n.票面价值，标准杆 abbr.精确进场雷达 adj.与票面价值相等的，一般标准
+
+permission n.同意，许可，允许
+
+rape v.强暴，强奸 n.油菜，强奸罪，强奸案，肆意损坏
+
+expertise n.专长，专门知识，专门技能
+
+convict v.定罪，宣判...有罪 n.已决犯，服刑囚犯
+
+economist n.经济学家
+
+medieval adj.中世纪的
+
+literary adj.文学的，与文学相关的
+
+counterpart n.职位相当的人，对应的事物；副本
+
+progressive adj.进步的，先进的；逐步的
+
+breakdown n.奔溃，故障，失败；分类
+
+seize v.抓住，捉拿，夺，没收
+
+harbor n.港口，港湾，避难所，坦克掩蔽场 v.停泊；包含；隐匿；怀抱
+
+outstanding adj.优秀的，杰出的；突出的，显著的；未解决的，为偿付的 n.未偿贷款
+
+nest n.窝，鸟巢，巢穴，鸟窝 v.筑巢，巢居，嵌套
+
+dull adj.枯燥无味的，沉闷的，无聊的，不明亮的 v.变麻木，使迟钝，使不活泼；变得暗淡，变得低沉，使变弱
+
+horrible adj.极坏的，十分讨厌的，可恶的，令人震惊的 n.衣着古怪的人
+
+van n.客货车，箱式送货车，面包车 v.选，用车搬运 prep.同“from”
+
+accomplish v.完成
+
