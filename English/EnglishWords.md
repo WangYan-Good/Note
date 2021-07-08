@@ -2464,3 +2464,67 @@ van n.客货车，箱式送货车，面包车 v.选，用车搬运 prep.同“fr
 
 accomplish v.完成
 
+# 2021.07.08
+
+par n.票面价值，标准杆 addr.精确进场雷达 adj.与票面价值相等的，一般标准(水准)的
+
+portray v.描绘，描写，描画，将...描写成
+
+harbor n.港口，港湾，避难所，坦克掩蔽场 v.停泊，包含，隐匿，怀抱(恶意)
+
+freely adv.坦率地，无拘无束的，慷慨的，不受限制的
+
+progressive adj.进步的，先进的；逐步的
+
+seize v.抓住，捉拿，夺，没收
+
+van n.客货车，箱式送货车，面包车 v.选(矿)，用车搬运(货物) prep.同“from”
+
+dump v.倾倒，抛售，抛弃，转存 n.垃圾场，转储，转存，废物堆
+
+subtle adj.不易觉察的；微妙的；机智的；狡猾的；巧妙地
+
+counterpart n.职位相当的人，对应的事物；副本
+
+collective adj.集体的，共同的 n.集体企业
+
+medieval adj.中世纪的
+
+horrible adj.极坏的，十分讨厌的，可恶的，令人震惊的 n.衣着古怪的
+
+convict v.定罪，宣判...有罪 n.已决犯，服刑囚犯
+
+suck v.吮吸，咂，啜，含在嘴里吸食；糟糕，差劲 n.吸，吮，啜，咂
+
+consent n.同意，许可 v.同意，允许
+
+halt v.使停止，阻止；使中断 n.停止，中止；暂停
+
+presumably adv.大概，很可能，想必是
+
+acre n.英亩
+
+constest n.比赛，竞赛；竞争 v.争取赢得；争辩，就...提出异议
+
+corruption n.腐败，贪污，受贿，贿赂
+
+empire n.帝国；大企业；商业帝国；活动领域；最高统治权
+
+breed n.品种；类型 v.饲养；繁殖；养育，教育；酿成，导致
+
+opponent n.对手，敌手；反对者
+
+abortion n.流产，堕胎，败育，失败
+
+organic adj.有机的；器官的；有机体的；组织的；根本的；简单的，接近自然的
+
+hypothesis n.假设，假说；猜测
+
+entertain v.娱乐；招待
+
+endorse v.支持，签名，背书，宣传，记录违章事项
+
+bunch n.束，串，扎，大量 v.成皱褶
+
+bundle n.捆，束 v.捆，匆匆送走，附赠
+
