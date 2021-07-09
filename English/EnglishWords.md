@@ -2528,3 +2528,98 @@ bunch n.束，串，扎，大量 v.成皱褶
 
 bundle n.捆，束 v.捆，匆匆送走，附赠
 
+# 2019.07.09
+
+hypothesis n.假设，假说；猜测
+
+precede v.先于，在...前面
+
+harsh adj.令人不快的；严酷的，严厉的；刺眼的，刺耳的，过于强烈的
+
+bunch n.束，串，扎，大量 v.成褶皱
+
+halt v.使停止，阻止；使中断 n.停止，中止；暂停
+
+wipe v.擦，消除，拭去 n.擦拭
+
+halt v.使停止，阻止；使中断 n.停止，中止；暂停
+
+harbor n.港口，港湾，避难所，坦克掩蔽场 v.停泊，包含，隐匿，怀抱
+
+breed n.品种，类型 v.饲养；繁殖；养育；教育；酿成，导致
+
+van n.客货车，箱式送货车，面包车 v.选，用车搬运 prep.同“from”
+
+horrible adj.极坏的，十分讨厌的，可恶的，令人震惊的 n.衣着古怪的人
+
+presumably adv.大概，很可能，想必是
+
+readily adv.乐意的，欣然地；轻松地，容易地
+
+tail n.尾，尾巴，尾部，燕尾服 v.跟踪，尾随，盯梢
+
+embrance v.欣然接受；拥抱；包含 n.拥抱
+
+bundle n.捆，束 v.捆，匆匆送走，附赠
+
+march v.行进，齐步走，前进，游行示威 n.进行曲，行军，行进，示威游行 n.三月
+
+consumption n.消费，消耗；食用；饮用；肺痨
+
+cite v.提及，举例；引用，引述；传唤；嘉奖
+
+abortion n.流产，堕胎，败育，失败
+
+convict v.定罪，宣判...有罪 n.已决犯，服刑囚犯
+
+whisper v.耳语，小声说；私下说，秘密告诉；沙沙作响 n.耳语；私语；轻柔的声音；传言
+
+par n.标准；票面价值；平均数量 addr.精确进场雷达 adj.与票面价值相等的，一般标准的
+
+counterpart n.职位相当的人，对应的事务；副本
+
+diagram n.图解，图表 v.绘制示意图；用图标说明
+
+contest n.比赛，竞赛；竞争 v.争取赢得；争辩，就...提出异议
+
+corruption n.腐败，贪污，受贿，贿赂
+
+comprise v.由...组成；包含
+
+progressive adj.进步的，先进的；逐步的
+
+interval n.间隔；中场休息
+
+endorse v.支持，签名，背书，宣传，记录违章事项
+
+tournament n.锦标赛，联赛，骑马比武
+
+refugee n.避难者；逃亡者；难民
+
+sign v.叹息，叹气，叹着气说，叹息道 n.叹息，叹气
+
+outlet n.出口；发泄途径；批发商店
+
+inquiry n.打听，询问；调查，查问；探究，探索
+
+constitute v.组成，构成；成立，设定 v.被视为，算作
+
+cruise n.航行；乘船游览 v.乘船游览；以平稳的速度行驶
+
+controversy n.争论，争议
+
+grace n.优雅，优美；风度，体面；恩典；宽限期 v.为...增色，美化，使优美
+
+tempt v.诱惑；吸引；使感兴趣
+
+stir v.搅动，搅拌，搅和；煽动，挑起；稍稍活动 n.微动，动静；搅动
+
+interfere v.干预，干涉；妨碍
+
+pant v.气喘，喘息；气喘吁吁地讲；渴望 n.气喘，喘息
+
+invent v.发明，创造，编造，捏造
+
+strictly adv.严格的，无论如何，完全地，确切地
+
+defensive adj.防御的，保护的，保卫的，戒备的 n.辩护，守势
