@@ -2623,3 +2623,56 @@ invent v.发明，创造，编造，捏造
 strictly adv.严格的，无论如何，完全地，确切地
 
 defensive adj.防御的，保护的，保卫的，戒备的 n.辩护，守势
+
+# 2021.07.10
+
+accessible adj.可到达的，可接近的，可进入的，可使用的
+
+faculty n.能力，才能；全体教职员；系，部，院
+
+valley n.流域，山谷，峡谷，谷地
+
+substantially adv.基本上，大体上，非常，大大地
+
+portfolio n.文件夹，职务，有价证券组合，公事包
+
+rough adj.粗糙的，不平滑的，高低不平的，不确切的
+
+hypothesis n.假设，假说；猜测
+
+pant v.气喘，喘息；气喘吁吁地讲；渴望 n.气喘，喘息
+
+exploit v.利用；开拓，开采；压榨；剥削 n.勋绩，功绩
+
+controversy n.争论，争议
+
+cruise n.航行；乘船游览 v.乘船游览；以平稳地速度行驶
+
+translation n.翻译，译文，译本，转化
+
+psychology n.心理学 n.心理状态
+
+fold v.折叠，包，可叠平，裹 n.褶，褶层，折叠部分，褶痕
+
+discourse n.对话；话语；演讲；论文
+
+tissue n.纸巾；绵纸
+
+merchant n.商人；批发商；外贸批发商；爱好者 adj.商人的；商业的；商船的
+
+cap n.便帽，软帽，方帽 v.用...覆盖顶部，限额收取，胜过，超过 abbr.共同农业政策
+
+curtain n.帷幕，窗帘，幔，网眼帘子 v.给(窗户或房间)装上帘子
+
+simultaneously adv.同时，联立，急切地
+
+identical adj.完全相同的；同一的
+
+incentive n.激励，刺激，鼓励 adj.刺激性的
+
+viewer n.观察者，观看者，电视观众，观看器
+
+catalog n.目录册，产品样本，学校便览，一览表 v.编目录，按目录分类
+
+deposit v.放下，放置；存放，寄存，存钱；沉淀，沉积；付，预付 n.存款；押金，订金；堆积物，沉积物；矿床；存储；沉积
+
