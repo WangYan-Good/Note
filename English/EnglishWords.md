@@ -2829,3 +2829,34 @@ thereafter adv.此后，之后，以后
 attendant n.服务员；侍从，随从 adj.伴随的；在场的
 
 niche n.壁龛，舒适或称心的工作（或生活等），（产品的）商机，市场定位
+
+thereafter adv.此后，之后，以后
+
+attendant n.服务员；侍从，随从 adj.伴随的；在场的
+
+viable adj.可实施的，切实可行的，可生存的，能独立发展的
+
+mound n.土墩，小丘，小山岗，一堆 v.筑堤，造土墩子，筑笛防御
+
+fond adj.喜爱（尤指认识已久的人），喜爱（尤指长期喜爱的事物）
+
+velocity n.速度，速率；高速
+
+regulator n.监管机构，自动调节器
+
+manifest v.表明，清楚显示；显现，使人注意到 adj.明显的；显而易见的 n.货单，旅客名单
+
+sponeorship n.资助，主办，赞助款，倡议
+
+systematic adj.成体系的；系统的；有条理的；有计划有步骤的
+
+mutation n.变异，改变
+
+flank n.侧面；胁腹 v.侧面有...；位于...的侧面
+
+hunger n.饥饿，饥荒，渴求，饥饿感 v.饥饿，使饥饿，使因饥饿而...（into out of）
+
+blink v.眨眼，忽视，（灯光等）闪烁，望着 n.眨眼
+
+flaw n.错误，缺点；裂痕，瑕疵 v.使有缺陷
+
