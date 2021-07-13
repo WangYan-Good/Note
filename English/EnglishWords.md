@@ -2807,7 +2807,7 @@ bracket n.支架，括号，方括号，等级 v.用括弧括上，把...等同�
 ridge n.脊，海岭，山岭 v.皱起，使成脊状
 
 exceptional adj.杰出的，优秀的；异常的，特别的
-
+    
 analogy n.类比；比拟；比喻
 
 sponsorship n.资助，主办，赞助款，倡议
