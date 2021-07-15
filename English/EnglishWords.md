@@ -2895,3 +2895,56 @@ articulate v.说，表达，清晰认真地发音，形成（声音） adj.明�
 artifact n.人工制品，【生】（组织结构的）认为现象
 
 cone n.使成锥形，把...卷于锥状体上，（探照灯）集中探照（敌机） n.（实心或空心的）圆锥体，（实心或空心的）圆锥形物，锥形桶
+
+generalization n.概括；归纳；泛论
+
+accessory adj.辅助的；副的 n.附件，配送；同谋，帮凶
+
+modem n.调制解调器 v.【计】通过调制解调器向...发送电子邮件，用调制解调器联通
+
+notable adj.值得注意的；显著的；重要的 n.名人；重要人物
+
+bracket n.支架，括号，方括号，等级 v.用括弧括上，把...等同考虑，把...相提并论
+
+albeit conj.尽管，虽然
+
+non adv.（外）非 adj.（外）不法的
+
+tumor n.【医】肿瘤
+
+metaphor n.隐喻，暗喻
+
+gradient n.坡度；倾斜度
+
+inhabit v.抑制，阻止，阻碍，使拘束
+
+genetics n.遗传学
+
+facet n.方面，（宝石）小平面
+
+calculus n.微积分
+
+vacuum n.真空；真空吸尘器；空白，空虚 v.用真空吸尘器清扫 adj.真空的；产生真空的
+
+vague adj.模糊的，不明确的；含糊其词的
+
+domiance n.优势，控制，权势，【生】显性
+
+incur v.招致，遭受，引起，引致
+
+accumulate v.积聚，累加，堆积
+
+memorize v.记住，记忆
+
+bilingual adj.流利地讲两种语言的；（文本或活动）双语的，用两种语言进行的；（国家/城市/社区）使用两种语言的（尤指正式地） n.能讲两国话的人
+
+delta n.河口，三角形物，三角形接线，三角（形状）
+
+embody v.具体表现，体现；代表；包括；收录
+
+emit v.发出，散发
+
+cortex n.皮质，皮层，（尤指）大脑皮层
+
+psychologist n.心理学家，心理学研究者
+
