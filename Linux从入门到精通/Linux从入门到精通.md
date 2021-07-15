@@ -3210,3 +3210,31 @@ POP3、IMAP、SMTP协议
 sudo mount X.X.X.X:/srv/nfs_share share/
 ```
 
+如果安装失败的话，可能是服务器端的NFS服务器没有正确导出这个目录，使用带 -e 选项的 showmount 可以查看服务器端导出的目录
+
+```shell
+showmount -e x.x.x.x
+```
+
+#### 14.1.2 卸载NFS文件系统
+
+使用 umount 卸载NFS文件系统
+
+```shell
+sudo umount share/
+```
+
+应该确保没有其他进程正在使用这个文件系统，否则 umount 会拒绝卸载文件系统
+
+可以使用 lsof 命令查询哪些进程正在使用文件系统
+
+```shell
+lsof share/
+```
+
+还可以强行卸载文件系统
+
+```shell
+sudo umount -f
+```
+
